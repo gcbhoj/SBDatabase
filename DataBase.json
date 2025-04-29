@@ -452,18 +452,18 @@
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "सूर्यास्तमयात् पूर्वम् पशुपालः आजान् अविकम् प्रत्यानयत् ।",
+            "meaning_in_english": "The shepherd guided the sheep back to the pen before sunset.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मेषः उच्चैः शब्दमकरोत् यदा स ओघात् वियुज्यते।",
+            "meaning_in_english": "The sheep bleated loudly when it got separated from the flock.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "आरोग्यवान् मेषः ऊर्णां उत्पादयितुं शक्नोति या कोमलपट्टस्य निर्माणाय प्रयुज्यते।",
+            "meaning_in_english": "A healthy sheep can produce wool that is used for making soft fabrics.",
             "pronounciation": "audio file"
           }
         },
@@ -472,14 +472,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "ष",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "बहुरोमन्",
@@ -495,30 +487,6 @@
             "fourth_letter_pronounciation": "audio file",
             "fifth_letter": "न्",
             "fifth_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "",
-            "fourth_letter_pronounciation": "audio file",
-            "fifth_letter": "",
-            "fifth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -536,7 +504,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "घोटिका",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -571,14 +538,6 @@
           "second_letter": "श्व",
           "second_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "राजस्कन्ध",
           "name_one_pronounciation": "audio file",
@@ -605,16 +564,6 @@
             "fourth_letter_pronounciation": "audio file",
             "fifth_letter": "ष्ठ",
             "fifth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -632,34 +581,33 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "wild_donkey": "गौरखर",
         "wild_donkey_pronounciation": "audio_file",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गर्दभः भारान् गुरून् पर्वतमार्गेण उह्यते।",
+            "meaning_in_english": "The donkey carried heavy loads up the mountain trail.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कृषको गर्दभेन वस्तूनि मार्गशीर्षे प्रापयामास।",
+            "meaning_in_english": "The farmer used a donkey to transport goods to the market.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गर्दभः भयात् उद्विग्नो वा उच्चैः रौति।",
+            "meaning_in_english": "A donkey brays loudly when it feels threatened or excited.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गर्दभः कठिनपरिश्रमेषु धैर्यशक्तिभ्यां प्रसिद्धः ।",
+            "meaning_in_english": "The donkey is known for its patience and strength in tough work conditions.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गर्दभः दीर्घदिनानन्तरम् वृक्षस्य छायायाम् शान्तम् विश्राम्यति स्म ।",
+            "meaning_in_english": "The donkey was peacefully resting under the shade of a tree after a long day.",
             "pronounciation": "audio file"
           }
         },
@@ -669,14 +617,6 @@
           "second_letter": "र्द",
           "second_letter_pronounciation": "audio file",
           "third_letter": "भ",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -703,14 +643,6 @@
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "र्य",
             "fourth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -736,7 +668,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "सिंही",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "गर्जति",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -770,14 +701,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "ह",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "ग",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "र्ज",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "ति",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "पशुराज",
@@ -830,7 +753,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "हिङ्कारम्",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -854,8 +776,8 @@
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वीर्यवान् व्याघ्रः शोभनानि रेखांसि यस्य सः सुग्राह्यः भवति।",
+            "meaning_in_english": "The majestic tiger has beautiful stripes that make it easily recognizable.",
             "pronounciation": "audio file"
           }
         },
@@ -865,16 +787,7 @@
           "second_letter": "घ्र",
           "second_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "हि",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "ङ्का",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "र",
-          "third_letter_pronounciation": "audio file",
-          "fourth_letter": "म्",
-          "fourth_letter_pronounciation": "audio file"
-        },
+
         "other_names": {
           "name_one": "गुहाशय",
           "name_one_pronounciation": "audio file",
