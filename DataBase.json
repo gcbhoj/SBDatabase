@@ -84,7 +84,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "मार्जारी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "कूजति",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -121,12 +120,6 @@
           "third_letter": "ला",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "म्या",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "उ",
-          "second_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "मार्जार",
           "name_one_pronounciation": "audio file",
@@ -154,7 +147,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "महिषी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -189,14 +181,6 @@
           "second_letter": "हि",
           "second_letter_pronounciation": "audio file",
           "third_letter": "ष",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -246,7 +230,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "करिणी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -281,14 +264,6 @@
           "second_letter": "ज",
           "second_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "कुञ्चर",
           "name_one_pronounciation": "audio file",
@@ -311,16 +286,6 @@
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "ज",
             "fourth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -338,7 +303,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "वृषभ",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -352,18 +316,18 @@
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "ऋषभ ईकादश",
-            "meaning_in_english": "ten cows and a bull",
+            "sentence": "गौः प्रति प्रभातं नवीनं क्षीरं ददाति ।",
+            "meaning_in_english": "The cow gives us fresh milk every morning.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गोः मध्याह्नगतोष्मणः निवृत्तये वृक्षमूले विश्रामं कुरुते।",
+            "meaning_in_english": "The cow was resting under the tree to escape the midday heat.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गौर् उच्चैः ननाद यदा चलन्ती वर्तते समीपे गोशालायाः।",
+            "meaning_in_english": "The cow mooed loudly as it wandered near the barn.",
             "pronounciation": "audio file"
           }
         },
@@ -372,14 +336,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "नु",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "शृङ्गिणी",
@@ -391,24 +347,6 @@
             "second_letter_pronounciation": "audio file",
             "third_letter": "णी",
             "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "",
-            "fourth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -426,7 +364,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "छाग",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -445,13 +382,13 @@
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "छागक",
-            "meaning_in_english": "herd of goats",
+            "sentence": "छागः काष्ठस्य वेष्टनं सुकरं अतिलङ्घयत्।",
+            "meaning_in_english": "The goat jumped over the wooden fence with ease.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कुमारकाः हसन्ति यत् अजः तेषाम् अनुगच्छति आङ्गनम् अन्ततः।",
+            "meaning_in_english": "The children laughed as the goat chased them around the yard.",
             "pronounciation": "audio file"
           }
         },
@@ -460,14 +397,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "ज",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "तभ",
@@ -510,17 +439,16 @@
         "pronounciation": "audio file",
         "opposite_gender": "एडक",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "sheep were grazing peacefully in the green meadow.",
+            "meaning_in_english": "उज्ज्वले विटपिनालके शान्तं चरन्ति स्म मेषाः।",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मेषस्य रोमाणि प्रत्यवसरे छिद्यन्ते वस्त्राणि कर्तुम्।",
+            "meaning_in_english": "A sheep’s wool is sheared every spring to make clothing.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
