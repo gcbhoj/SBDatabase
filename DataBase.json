@@ -187,12 +187,14 @@
           "name_one": "स्कन्धशृङ्ग",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "न्ध",
+            "first_letter": "स्क",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "शृ",
+            "second_letter": "न्ध",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "ङ्ग",
-            "third_letter_pronounciation": "audio file"
+            "third_letter": "शृ",
+            "third_letter_pronounciation": "audio file",
+            "fourth_letter":"ङ्ग",
+            "fourth_letter_pronounciation":"audio file"
           },
           "name_two": "बलिन्",
           "name_two_pronounciation": "audio file",
