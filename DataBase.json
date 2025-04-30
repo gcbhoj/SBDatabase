@@ -800,30 +800,6 @@
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "य",
             "fourth_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "",
-            "fourth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "",
-            "fourth_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -839,32 +815,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "वृकी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वृकोऽपूर्णचन्द्रमुद्देशेन विरहोत् स्वसङ्घमाह्वयत्।",
+            "meaning_in_english": "The wolf howled at the full moon, calling to its pack.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वृकः बलेन परिचितः समूहबुद्ध्या च।",
+            "meaning_in_english": "A wolf is known for its strength and pack mentality.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वृकः तीक्ष्णान् इन्द्रियाणि भवति, विशेषतः तस्य दूरपर्यन्तं भक्ष्यम् अनुसरणस्य शक्तिः।",
+            "meaning_in_english": "The wolf has keen senses, especially its ability to track prey over long distances.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "अनेकेषु संस्कृतिषु, वृकः शौर्यस्य च स्वातंत्र्यस्य च प्रतीकः ।",
+            "meaning_in_english": "In many cultures, the wolf is a symbol of courage and freedom.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वृकः समूहेन लुब्धकत्वेन महत्सु जन्तुषु पतनाय सहकार्यं करोति।",
+            "meaning_in_english": "The wolf hunts in packs, working together to bring down larger animals",
             "pronounciation": "audio file"
           }
         },
@@ -874,27 +849,7 @@
           "second_letter": "क",
           "second_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_two": "ईहामृग",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "ई",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "हा",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "मृ",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "ग",
-            "fourth_letter_pronounciation": ""
-          },
           "name_one": "अरण्यश्वन्",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
@@ -909,13 +864,17 @@
             "fifth_letter": "न्",
             "fifth_letter_pronounciation": "audio file"
           },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
+          "name_two": "ईहामृग",
+          "name_two_pronounciation": "audio file",
+          "name_two_split": {
+            "first_letter": "ई",
+            "first_letter_pronounciation": "audio file",
+            "second_letter": "हा",
+            "second_letter_pronounciation": "audio file",
+            "third_letter": "मृ",
+            "third_letter_pronounciation": "audio file",
+            "fourth_letter": "ग",
+            "fourth_letter_pronounciation": ""
           }
         },
         "opposite_gender_split": {
@@ -931,7 +890,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "रूपका",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -940,23 +898,23 @@
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "लोमशः श्वा वने शीघ्रं धावति, तस्य लोहितं लोम शरद्गुणैः पर्णैः मिश्रति।",
+            "meaning_in_english": "The fox swiftly ran through the forest, its red fur blending with the autumn leaves.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "लोककथासु श्रृगालः कुशलता चौर्यं च सहस्राणां संबद्धते।",
+            "meaning_in_english": "A fox is often associated with cleverness and agility in folklore.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शृगालः वनात् नगरान्तं विविधानि वासस्थानानि अधिरोहितुम् शक्नोति।",
+            "meaning_in_english": "The fox can adapt to a variety of habitats, from forests to urban areas.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वने वानरः स्वल्पपशून् पक्षिणश्च लुब्ध्यर्थमालिखति।",
+            "meaning_in_english": "In the wild, the fox hunts small animals and birds for food.",
             "pronounciation": "audio file"
           }
         },
@@ -966,14 +924,6 @@
           "second_letter": "गा",
           "second_letter_pronounciation": "audio file",
           "third_letter": "ल",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -1000,14 +950,6 @@
             "thirdt_letter_pronounciation": "audio file",
             "fourth_letter": "क",
             "fourth_letter_pronounciation": ""
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -1025,7 +967,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "मृगी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -1034,23 +975,23 @@
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "व्याध",
-            "meaning_in_english": "one who lives by killing deer",
+            "sentence": "मृगः घने वने शीघ्रं धावति, मार्गे केनचित् प्रतिबन्धेन वर्जितः।",
+            "meaning_in_english": "The deer ran swiftly through the dense forest, avoiding any obstacles in its path.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मृगः नद्यां जलपानार्थं अवतस्थे परितः अपरिचितम् अन्वेषमाणः।",
+            "meaning_in_english": "A deer stopped by the river to drink water, carefully scanning the surroundings.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मृगः प्रबलं श्रवणशक्तिं यत् तेन शीघ्रम् एव शत्रूणां उपलब्धिः भवति।",
+            "meaning_in_english": "The deer has a strong sense of hearing, which helps it detect predators early.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हेमन्तकाले, मृगः स्वस्य घनस्य रोमराज्याय शीतविमे उष्णताम् आश्रयति।",
+            "meaning_in_english": "During winter, the deer relies on its thick coat to stay warm in cold climates.",
             "pronounciation": "audio file"
           }
         },
@@ -1062,14 +1003,6 @@
           "third_letter": "ण",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "मृग",
           "name_one_pronounciation": "audio file",
@@ -1077,24 +1010,6 @@
             "first_letter": "मृ",
             "first_letter_pronounciation": "audio file",
             "second_letter": "ग",
-            "second_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
             "second_letter_pronounciation": "audio file"
           }
         },
@@ -1111,32 +1026,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "ऋक्षः वने वसति।",
+            "meaning_in_english": "The bear lives in the forest.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "ऋक्षः मधु च फलानि च अत्ति।",
+            "meaning_in_english": "A bear eats honey and berries.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "ऋक्षः अतिबलवान् ।",
+            "meaning_in_english": "The bear is very strong.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "अहं नदीसमीपे ऋक्षम् अपश्यम्।",
+            "meaning_in_english": "I saw a bear near the river.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "भल्लूकः शिशिरे गुहायाम् शेते ।",
+            "meaning_in_english": "The bear sleeps in a cave during winter.",
             "pronounciation": "audio file"
           }
         },
@@ -1148,37 +1062,13 @@
           "third_letter": "क",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_one": "",
+          "name_one": "ऋक्षः",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "ऋ",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
+            "second_letter": "क्षः",
             "second_letter_pronounciation": "audio file"
           }
         },
@@ -1195,32 +1085,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "सूकरी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "सूकरः कृषिशालायां वसति।",
+            "meaning_in_english": "The pig lives on a farm.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "सूकरः कर्दमे क्रीडितुम् इच्छति।",
+            "meaning_in_english": "A pig loves to play in the mud.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "सूकरः फलानि च शाकानि च अत्ति।",
+            "meaning_in_english": "The pig eats fruits and vegetables.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "अहम् शूकरम् कोट्टगृहस्य समीपे अपश्यम् ।",
+            "meaning_in_english": "I saw a pig near the barn.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "सूकरः कुण्डलितपुच्छम् आस्ते।",
+            "meaning_in_english": "The pig has a curly tail.",
             "pronounciation": "audio file"
           }
         },
@@ -1232,45 +1121,15 @@
           "third_letter": "र",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_one": "",
+          "name_one": "वराह",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "व",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
+            "second_letter": "रा",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "",
-            "fourth_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
+            "third_letter": "ह",
             "third_letter_pronounciation": "audio file"
           }
         },
@@ -1289,32 +1148,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शशः शीघ्रम् धावति ॥",
+            "meaning_in_english": "The rabbit runs fast.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शशः बिले निद्राति",
+            "meaning_in_english": "The rabbit sleeps in a burrow.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "बालकः शशम् पश्यति।",
+            "meaning_in_english": "The boy sees the rabbit.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शशः विवरं प्रविशति",
+            "meaning_in_english": "The rabbit enters the hole.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शशः बिले अत्ति ।",
+            "meaning_in_english": "The rabbit eats in the burrow.",
             "pronounciation": "audio file"
           }
         },
@@ -1326,14 +1184,6 @@
           "third_letter": "क",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "शश",
           "name_one_pronounciation": "audio file",
@@ -1342,20 +1192,6 @@
             "first_letter_pronounciation": "audio file",
             "second_letter": "श",
             "second_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -1363,20 +1199,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "",
           "second_letter_pronounciation": "audio file"
-        },
-        "wild_dog_split": {
-          "first_letter": "",
-          "first_letter_pronciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file",
-          "fourth_letter": "",
-          "fourth_letter_pronounciation": "audio file",
-          "fifth_letter": "",
-          "fifth_letter_pronounciation": "audio file",
-          "sixth_letter": "",
-          "sixth_letter_pronounciation": "audio_file"
         }
       },
       "squirrel": {
@@ -1385,32 +1207,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "रोमशी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वानरः वृक्षं आरोहति ।",
+            "meaning_in_english": "The squirrel climbs the tree.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उपकरणी वायसः खादति ।",
+            "meaning_in_english": "The squirrel eats a nut.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "बालः चिकुरः पश्यति।",
+            "meaning_in_english": "The child watches the squirrel.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वानरः शाखातः शाखां क्रामति।",
+            "meaning_in_english": "The squirrel jumps from branch to branch",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उद्दामरुः भोजनम् पश्चादर्थम् गुप्ते करोति।",
+            "meaning_in_english": "The squirrel hides food for later.",
             "pronounciation": "audio file"
           }
         },
@@ -1420,14 +1241,6 @@
           "second_letter": "क्रो",
           "second_letter_pronounciation": "audio file",
           "third_letter": "ड",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -1444,20 +1257,6 @@
             "fourth_letter_pronounciation": "audio file",
             "fifth_letter": "का",
             "fifth_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -1475,32 +1274,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "उष्ट्रिका",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उष्ट्राः बहुदिनानि जलं विना जीवन्ति।",
+            "meaning_in_english": "Camels can live without water for many days.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उष्ट्र: मरु: चरति",
+            "meaning_in_english": "The camel walks in the desert.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उष्ट्रः पृष्ठे कूबरमस्ति।",
+            "meaning_in_english": "The camel has a hump on its back.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उष्ट्रः गुरुभारं वहति।",
+            "meaning_in_english": "A camel carries heavy loads.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उष्ट्रः वृक्षस्याधस्तात् विश्रामति।",
+            "meaning_in_english": "The camel rests under a tree.",
             "pronounciation": ""
           }
         },
@@ -1509,14 +1307,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "ष्ट्र",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "करभक",
@@ -1529,18 +1319,6 @@
             "third_letter": "भ",
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "क",
-            "fourth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "",
             "fourth_letter_pronounciation": "audio file"
           },
           "name_two": "कुबाहुल",
@@ -1571,7 +1349,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "वानरी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -1590,13 +1367,13 @@
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कपिः वृक्षात् वृक्षं लङ्घयति।",
+            "meaning_in_english": "The monkey jumps from tree to tree.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कपिः अतिक्रीडशीलः ।",
+            "meaning_in_english": "The monkey is very playful.",
             "pronounciation": "audio file"
           }
         },
@@ -1606,14 +1383,6 @@
           "second_letter": "न",
           "second_letter_pronounciation": "audio file",
           "third_letter": "र",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -1626,14 +1395,6 @@
             "second_letter_pronounciation": "audio file",
             "third_letter": "क्ष",
             "third_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           },
           "name_two": "जम्बुमत्",
           "name_two_pronounciation": "audio file",
@@ -1663,32 +1424,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "खड्गधेनु",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "खड्गमृगः विशालशृङ्गं यत्।",
+            "meaning_in_english": "The rhinoceros has a big horn.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "खड्गः नदीषु च वनेषु च वसति।",
+            "meaning_in_english": "A rhinoceros lives near rivers and forests.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "खड्गमृगः तृणानि पर्णानि च अत्ति।",
+            "meaning_in_english": "The rhinoceros eats grass and leaves.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "खड्गमृगः मन्दं गच्छति।",
+            "meaning_in_english": "A rhinoceros walks slowly.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "जनाः गण्डकम् पशुवने द्रष्टुम् आगच्छन्ति।",
+            "meaning_in_english": "People come to see the rhinoceros in the zoo.",
             "pronounciation": "audio file"
           }
         },
@@ -1700,14 +1460,6 @@
           "third_letter": "क",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "एकशृङ्ग",
           "name_one_pronounciation": "audio file",
@@ -1717,16 +1469,6 @@
             "second_letter": "क",
             "second_letter_pronounciation": "audio file",
             "third_letter": "शृङ्ग",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
             "third_letter_pronounciation": "audio file"
           },
           "name_two": "वज्रचर्मन्",
@@ -1763,32 +1505,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "यवनिकायाः कृष्णशुक्लवर्णाः रेखाः सन्ति।",
+            "meaning_in_english": "zebra has black and white stripes.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "अफ्रिकायाः तृणभूमिषु यवनाः वसन्ति।",
+            "meaning_in_english": "Zebras live in the grasslands of Africa.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "यवनरत्नं अतिवेगेन धावति।",
+            "meaning_in_english": "zebra runs very fast.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वराहमृगाः तृणं च वनस्पतीश्च खादन्ति।",
+            "meaning_in_english": "Zebras eat grass and plants.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "यवनालः समूहे नाम्ना समूहे तिष्ठति।",
+            "meaning_in_english": "the zebra stays in a group called a herd",
             "pronounciation": "audio file"
           }
         },
