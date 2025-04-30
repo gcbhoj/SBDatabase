@@ -444,8 +444,8 @@
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "sheep were grazing peacefully in the green meadow.",
-            "meaning_in_english": "उज्ज्वले विटपिनालके शान्तं चरन्ति स्म मेषाः।",
+            "sentence": "उज्ज्वले विटपिनालके शान्तं चरन्ति स्म मेषाः",
+            "meaning_in_english": "sheep were grazing peacefully in the green meadow.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
@@ -581,7 +581,6 @@
         "starting_alphabet": "ग",
         "common_name": "गर्दभ",
         "pronounciation": "audio file",
-        "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
         "image": "link to image",
         "wild_donkey": "गौरखर",
@@ -614,7 +613,7 @@
           }
         },
         "common_name_split": {
-          "first_letter": "गर्दभ",
+          "first_letter": "ग",
           "first_letter_pronounciation": "audio file",
           "second_letter": "र्द",
           "second_letter_pronounciation": "audio file",
@@ -647,14 +646,8 @@
             "fourth_letter_pronounciation": "audio file"
           }
         },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
-        },
         "wild_donkey_split": {
-          "first_letter": "गौरखर",
+          "first_letter": "गौ",
           "first_letter_pronciation": "audio file",
           "second_letter": "र",
           "second_letter_pronounciation": "audio file",
@@ -753,7 +746,6 @@
         "starting_alphabet": "व्य",
         "common_name": "व्याघ्र",
         "pronounciation": "audio file",
-        "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
         "image": "link to image",
         "simple_sentences": {
@@ -768,12 +760,12 @@
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "व्याघ्रेन तस्य ग्रहणात् पूर्वं सः जले कूर्दितवान्|।",
+            "sentence": "व्याघ्रेन तस्य ग्रहणात् पूर्वं सः जले कूर्दितवान्|",
             "meaning_in_english": "He jumped into the water before the tiger can grab him.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "कांश्चित् शिशुसिंहान् व्याघ्रान् भल्लूकान् च द्रष्टुं ते अस्मान् नेष्यन्ति|।",
+            "sentence": "कांश्चित् शिशुसिंहान् व्याघ्रान् भल्लूकान् च द्रष्टुं ते अस्मान् नेष्यन्ति।",
             "meaning_in_english": "They would take us to see some baby lions,tigers, and bears.",
             "pronounciation": "audio file"
           },
@@ -803,12 +795,6 @@
             "fourth_letter": "य",
             "fourth_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "wolf": {
@@ -1026,7 +1012,6 @@
         "starting_alphabet": "भ",
         "common_name": "भल्लूक",
         "pronounciation": "audio file",
-        "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
         "image": "link to image",
         "simple_sentences": {
@@ -1073,12 +1058,6 @@
             "second_letter": "क्षः",
             "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "pig": {
