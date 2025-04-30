@@ -1545,14 +1545,6 @@
           "fifth_letter": "भ",
           "fifth_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "राजीवरासभ",
           "name_one_pronounciation": "audio file",
@@ -1570,19 +1562,15 @@
             "sixth_letter": "भ",
             "sixth_letter_pronounciation": "audio file"
           },
-          "name_two": "",
+          "name_two": "यवनाः",
           "name_two_pronounciation": "audio file",
           "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
+            "first_letter": "य",
+            "first_letter_pronounciation": "audio file",
+            "second_letter": "व",
+            "second_letter_pronounciation": "audio file",
+            "third_letter": "नाः",
+            "third_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -1593,82 +1581,59 @@
         }
       },
       "kangaroo": {
-        "starting_alphabet": "ध",
-        "common_name": "धाकुरङ्ग",
+        "starting_alphabet": "ख",
+        "common_name": "खङ्गारूः",
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कंगारू आस्ते ऑस्ट्रेलियायाम्।",
+            "meaning_in_english": "The kangaroo lives in Australia.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "खङ्गारूः शक्तिलद्वयेन लङ्घयति।",
+            "meaning_in_english": "A kangaroo hops on its strong legs.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शिशुः खङ्गुरुः मातुः प्रोथं वसति।",
+            "meaning_in_english": "The baby kangaroo stays in its mother’s pouch.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कंगारू तृणम् एव पर्णानि च अत्ति।",
+            "meaning_in_english": "Kangaroos eat grass and leaves.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "खङ्गुरुः अतिदूरम् अतिलङ्घयितुम् शक्नोति।",
+            "meaning_in_english": "A kangaroo can jump very far.",
             "pronounciation": "audio file"
           }
         },
         "common_name_split": {
-          "first_letter": "धा",
+          "first_letter": "ख",
           "first_letter_pronounciation": "audio file",
-          "second_letter": "कु",
+          "second_letter": "ङ्गु",
           "second_letter_pronounciation": "audio file",
-          "third_letter": "र",
-          "third_letter_pronounciation": "audio file",
-          "fourth_letter": "ङ्ग",
-          "fifth_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
+          "third_letter": "रुः",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
-          "name_one": "",
+          "name_one": "धाकुरङ्ग",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "धा",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
+            "second_letter": "कु",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
+            "third_letter": "र",
+            "third_letter_pronounciation": "audio file",
+            "fourth_letter": "ङ्ग",
+            "fifth_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -1680,81 +1645,76 @@
       },
       "hippopotamus": {
         "starting_alphabet": "ज",
-        "common_name": "जलहस्ती",
+        "common_name": "हिप्पोपोटमसः",
         "pronounciation": "audio file",
         "opposite_gender": "शुण्डा",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हिप्पोपोटमसः नदीभिः सर्वाभिश्च सरोभिर्वसति।",
+            "meaning_in_english": "The hippopotamus lives near rivers and lakes.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "सेही महती वृत्ताकारम् शरीरम् अस्ति ।",
+            "meaning_in_english": "A hippopotamus has a big, round body.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "समुद्रगजाः अधिकं कालं जले व्ययन्ति।",
+            "meaning_in_english": "Hippos spend most of their time in water.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हिप्पोपोटमसः तृणानि पादपांश्च अत्ति।",
+            "meaning_in_english": "The hippopotamus eats grass and plants.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "शिशुः वाराहः मातरं निकटस्थः तिष्ठति।",
+            "meaning_in_english": "A baby hippopotamus stays close to its mother.",
             "pronounciation": "audio file"
           }
         },
         "common_name_split": {
-          "first_letter": "ज",
+          "first_letter": "हि",
           "first_letter_pronounciation": "audio file",
-          "second_letter": "ल",
+          "second_letter": "प्पो",
           "second_letter_pronounciation": "audio file",
-          "third_letter": "ह",
+          "third_letter": "पो",
           "third_letter_pronounciation": "audio file",
-          "fourth_letter": "स्ती",
-          "fourth_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
+          "fourth_letter": "ट",
+          "fourth_letter_pronounciation": "audio file",
+          "fifth_letter": "म",
+          "fifth_letter_pronounciation": "audio file",
+          "sixth_letter": "सः",
+          "sixth_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "करियाद",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "क",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
+            "second_letter": "रि",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
+            "third_letter": "या",
+            "third_letter_pronounciation": "audio file",
+            "fourth_letter": "द",
+            "fourth_letter_pronounciation": "audio file"
           },
-          "name_two": "",
+          "name_two": "जलहस्ती",
           "name_two_pronounciation": "audio file",
           "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
+            "first_letter": "ज",
+            "first_letter_pronounciation": "audio file",
+            "second_letter": "ल",
+            "second_letter_pronounciation": "audio file",
+            "third_letter": "ह",
+            "third_letter_pronounciation": "audio file",
+            "fourth_letter": "स्ती",
+            "fourth_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
