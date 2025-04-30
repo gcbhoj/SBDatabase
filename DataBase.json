@@ -1726,83 +1726,60 @@
       },
       "gorilla": {
         "starting_alphabet": "भी",
-        "common_name": "भीमवानर",
+        "common_name": "गोरिल्लः",
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गोरिल्लः महान् बलवान् च पशुः ।",
+            "meaning_in_english": "The gorilla is a large and strong animal.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गोरिल्लाः वनेषु पर्वतेषु च वसन्ति।",
+            "meaning_in_english": "Gorillas live in forests and mountains.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गोरिल्लः हस्तपादाभ्यां विचरति।",
+            "meaning_in_english": "A gorilla walks on its hands and feet.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गोरिल्लाः फलानि पर्णानि च ओषधीश्च अत्तुम् ।",
+            "meaning_in_english": "Gorillas eat fruits, leaves, and plants.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "अन्योन्यम् क्रीडन्ति शिशुगोरिल्लाः",
+            "meaning_in_english": "Baby gorillas play with each other.",
             "pronounciation": "audio file"
           }
         },
         "common_name_split": {
-          "first_letter": "भी",
+          "first_letter": "गो",
           "first_letter_pronounciation": "audio file",
-          "second_letter": "म",
+          "second_letter": "रि",
           "second_letter_pronounciation": "audio file",
-          "third_letter": "वा",
-          "third_letter_pronounciation": "audio file",
-          "fourth_letter": "न",
-          "fourth_letter_pronounciation": "audio file",
-          "fifth_letter": "र",
-          "fifth_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
+          "third_letter": "ल्लाः",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
-          "name_one": "",
+          "name_one": "भीमवानर",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "भी",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
+            "second_letter": "म",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
+            "third_letter": "वा",
+            "third_letter_pronounciation": "audio file",
+            "fourth_letter": "न",
+            "fourth_letter_pronounciation": "audio file",
+            "fifth_letter": "र",
+            "fifth_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -1820,7 +1797,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -1834,18 +1810,18 @@
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "केचित् सर्पाः विषवन्तः।",
+            "meaning_in_english": "Some snakes are poisonous.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "सर्पः वर्धमानः त्वचं त्यजति।",
+            "meaning_in_english": "A snake sheds its skin as it grows.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "अहिः जिह्वाम् उपयुज्य परिवेषम् इन्धिरे",
+            "meaning_in_english": "Snakes use their tongue to sense their surroundings.",
             "pronounciation": "audio file"
           }
         },
@@ -1855,25 +1831,7 @@
           "second_letter": "र्प",
           "second_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
           "name_one": "लेलिह",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
@@ -1883,18 +1841,6 @@
             "second_letter_pronounciation": "audio file",
             "third_letter": "ह",
             "third_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronciation": "audio file",
-            "fourth_letter": "",
-            "fourth_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -1914,46 +1860,42 @@
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृहगोधिका गृहाणां भित्तिषु वसति।",
+            "meaning_in_english": "A house lizard lives on the walls of houses.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गेहगोधिका मशकान् मक्षिकाश्च सूक्ष्मकीटान् अत्ति।",
+            "meaning_in_english": "house lizard eats small insects like mosquitoes and flies.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृहगोधिकाः मानवानाम् अपायकराः भवन्ति।",
+            "meaning_in_english": "House lizards are usually harmless to humans.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "He sees the dog",
+            "sentence": "गृहगोधिकाः रात्रौ प्रायः सक्रियाः भवन्ति।",
+            "meaning_in_english": "house lizards are active mostly at night.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृहगोधिका पुच्छं भग्ने सति पुनरारोढुं शक्नोति।",
+            "meaning_in_english": "A house lizard can regrow its tail if it breaks off.",
             "pronounciation": "audio file"
           }
         },
         "common_name_split": {
-          "first_letter": "",
+          "first_letter": "गृ",
           "first_letter_pronounciation": "audio file",
-          "second_letter": "",
+          "second_letter": "ह",
           "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
+          "third_letter": "गो",
+          "third_letter_pronounciation": "audio file",
+          "fourth_letter": "दि",
+          "fourth_letter_pronounciation": "audio file",
+          "fifth_letter": "का",
+          "fifth_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "मुसलिका",
@@ -2002,32 +1944,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मकरः स्थूलो, बलवान्, पृष्ठग्रहः ।",
+            "meaning_in_english": "A crocodile is a large, strong reptile.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मकरः नदीषु सरःसु च अनूपेषु च वसति।",
+            "meaning_in_english": "crocodile lives in rivers, lakes, and swamps.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मकराः तीक्ष्णदंष्ट्राः बलवत्जम्भाः च सन्ति ।",
+            "meaning_in_english": "Crocodiles have sharp teeth and powerful jaws.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मकराः सुतरं प्लवन्ते चिरम् अन्तःसलिले वसन्ति च।",
+            "meaning_in_english": "crocodiles swim very well and can stay underwater for a long time.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मकरः मत्स्यान् अन्यानि च जन्तूनि आहाराय गृह्णाति।",
+            "meaning_in_english": "A crocodile catches fish and other animals for food.",
             "pronounciation": "audio file"
           }
         },
@@ -2037,14 +1978,6 @@
           "second_letter": "क",
           "second_letter_pronounciation": "audio file",
           "third_letter": "र",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -2059,16 +1992,6 @@
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "ह्व",
             "fourth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
           },
           "name_two": "गिलग्राह",
           "name_two_pronounciation": "audio file",
@@ -2096,7 +2019,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "कमठी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
