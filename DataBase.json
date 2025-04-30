@@ -1718,12 +1718,13 @@
           }
         },
         "opposite_gender_split": {
-          "first_letter": "शुण्डा",
+          "first_letter": "शु",
           "first_letter_pronounciation": "audio file",
-          "second_letter": "",
+          "second_letter": "ण्डा",
           "second_letter_pronounciation": "audio file"
         }
       },
+    
       "gorilla": {
         "starting_alphabet": "भी",
         "common_name": "गोरिल्लः",
@@ -2015,52 +2016,44 @@
       },
       "tortoise": {
         "starting_alphabet": "क",
-        "common_name": "कच्छेष्ट",
+        "common_name": "कच्छपः",
         "pronounciation": "audio file",
         "opposite_gender": "कमठी",
         "opposite_gender_pronounciation": "audio file",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कच्छपः मन्दगामी सरीसृपः अस्ति।",
+            "meaning_in_english": "A tortoise is a slow-moving reptile.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कच्छपः पृष्ठे कठिनं कचोपरि वसति।",
+            "meaning_in_english": "tortoise has a hard shell on its back.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कच्छपाः भूमौ वसन्ति, न जले।",
+            "meaning_in_english": "Tortoises live on land, not in water.",
             "pronounciation": ""
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कच्छपः तृणम्, पत्राणि च फलानि च अत्ति।",
+            "meaning_in_english": "tortoise eat grass, leaves, and fruits.",
             "pronounciation": ""
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कच्छपः बहुवर्षाणि जीवितुम् शक्नोति।",
+            "meaning_in_english": "A tortoise can live for many years.",
             "pronounciation": "audio file"
           }
         },
         "common_name_split": {
           "first_letter": "क",
           "first_letter_pronounciation": "audio file",
-          "second_letter": "च्छे",
+          "second_letter": "च्छ",
           "second_letter_pronounciation": "audio file",
-          "third_letter": "ष्ट",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
+          "third_letter": "पः",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -2076,16 +2069,6 @@
             "fourth_letter": "ढ",
             "fourth_letter_pronounciation": "audio file"
           },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
           "name_two": "कूर्म",
           "name_two_pronounciation": "audio file",
           "name_two_split": {
@@ -2093,6 +2076,16 @@
             "first_letter_pronciation": "audio file",
             "second_letter": "र्म",
             "second_letter_pronounciation": "audio file"
+          },
+          "name_three": "कच्छेष्ट",
+          "name_three_pronounciation": "audio file",
+          "name_three_split": {
+            "first_letter": "क",
+            "first_letter_pronounciation": "audio file",
+            "second_letter": "च्छे",
+            "second_letter_pronounciation": "audio file",
+            "third_letter": "ष्ट",
+            "third_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -2110,32 +2103,16 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कृकलास वर्णम् परिवर्तयति।",
+            "meaning_in_english": "A chameleon can change its color.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "कृकलास दीर्घां पिच्छिलां जिह्वां कीटान् ग्रहीतुम् अस्ति।",
+            "meaning_in_english": "chameleon has a long, sticky tongue to catch insects.",
             "pronounciation": "audio file"
           }
         },
@@ -2148,40 +2125,6 @@
           "third_letter_pronounciation": "audio file",
           "fourth_letter": "स",
           "fourth_letter_pronounciation": ""
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
-        "other_names": {
-          "name_one": "",
-          "name_one_pronounciation": "audio file",
-          "name_one_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
-          }
         },
         "opposite_gender_split": {
           "first_letter": "",
@@ -2198,32 +2141,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मण्डूकः जले वसति च भूमौ च।",
+            "meaning_in_english": "A frog lives in water and on land.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मण्डूकाः लङ्घनार्थं दृढपादाः सन्ति ।",
+            "meaning_in_english": "Frogs have strong legs for jumping.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मण्डूकः जिह्वया कीटान् गृह्णाति।",
+            "meaning_in_english": "A frog catches insects with its tongue.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मण्डूकाः क्रोशन्ति।",
+            "meaning_in_english": "Frogs make a croaking sound.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "शिशुमण्डूकाः वालपुच्छैः इति ख्याताः।",
+            "meaning_in_english": "Baby frogs are called tadpoles.",
             "pronounciation": "audio file"
           }
         },
@@ -2235,14 +2177,6 @@
           "third_letter": "क",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "भेक",
           "name_one_pronounciation": "audio file",
@@ -2250,20 +2184,6 @@
             "first_letter": "भे",
             "first_letter_pronounciation": "audio file",
             "second_letter": "क",
-            "second_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
             "second_letter_pronounciation": "audio file"
           }
         },
@@ -2280,34 +2200,32 @@
         "starting_alphabet": "म",
         "common_name": "मधुमक्षिका",
         "pronounciation": "audio file",
-        "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मधुमक्षिका मधु करोति",
+            "meaning_in_english": "A bee makes honey.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मधुमक्षिकाः कोषेषु वसन्ति।",
+            "meaning_in_english": "Bees live in hives.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मधुमक्खी कृष्णपीतवर्णा रेखाः विद्यते।",
+            "meaning_in_english": "A bee has black and yellow stripes.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मधुमक्षिकाः पुष्पेभ्यः मधु सञ्चिन्वन्ति।",
+            "meaning_in_english": "Bees collect nectar from flowers.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "मधुमक्खिः अपि दंशयितुं शक्नोति यदा सा भयान्विता भवति।",
+            "meaning_in_english": "A bee can sting when it feels threatened.",
             "pronounciation": "audio file"
           }
         },
@@ -2323,79 +2241,43 @@
           "fifth_letter": "का",
           "fifth_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
-        "other_names": {
-          "name_one": "",
-          "name_one_pronounciation": "audio file",
-          "name_one_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
-          }
-        },
         "opposite_gender_split": {
           "first_letter": "",
           "first_letter_pronounciation": "audio file",
           "second_letter": "",
           "second_letter_pronounciation": "audio file"
         }
-      },
+      },      
       "butterfly": {
         "starting_alphabet": "चि",
         "common_name": "चित्रपतङ्ग",
         "pronounciation": "audio file",
-        "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "प्रजापतेः कृमिः वर्णमय पक्षम्।",
+            "meaning_in_english": "A butterfly has colorful wings.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "पतङ्गाः पुष्पात् पुष्पम् पतन्ति।",
+            "meaning_in_english": "Butterflies fly from flower to flower.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कीटः पुत्रिकायाः निर्गच्छति।",
+            "meaning_in_english": "A butterfly comes out of a cocoon.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "बालाः पतङ्गान् पश्यन्ति प्रीत्या।",
+            "meaning_in_english": "Children love to watch butterflies.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "प्रजापतिगृहाः वनानि च उद्यानानि च वसन्ति।",
+            "meaning_in_english": "Butterflies live in gardens and forests.",
             "pronounciation": "audio file"
           }
         },
@@ -2410,14 +2292,6 @@
           "fourth_letter_pronounciation": "audio file",
           "fifth_letter": "ङ्ग",
           "fifth_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "पुष्पपतङ्ग",
@@ -2434,19 +2308,15 @@
             "fifth_letter": "ङ्ग",
             "fifth_letter_pronounciation": "audio file"
           },
-          "name_two": "",
+          "name_two": "पतङ्गाः",
           "name_two_pronounciation": "audio file",
           "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
+            "first_letter": "प",
+            "first_letter_pronounciation": "audio file",
+            "second_letter":"त",
+            "second_letter_pronounciation":"audio file",
+            "third_letter":"ङ्गाः",
+            "third_letter_pronounciation":"audio file"
           }
         },
         "opposite_gender_split": {
@@ -2460,9 +2330,7 @@
         "starting_alphabet": "ति",
         "common_name": "तितिभ",
         "pronounciation": "audio file",
-        "opposite_gender": "",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -2884,7 +2752,7 @@
           "second_letter": "",
           "second_letter_pronounciation": "audio file"
         }
-      }
+      
     },
     "birds": {
       "peacock": {
