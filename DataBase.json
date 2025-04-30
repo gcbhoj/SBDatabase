@@ -144,159 +144,159 @@
       "buffalo": {
         "starting_alphabet": "म",
         "common_name": "महिष",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/mahisha.wav",
         "opposite_gender": "महिषी",
-        "opposite_gender_pronounciation": "audio file",
+        "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/mahishi.wav",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "महिषः क्षीरं ददाति |",
             "meaning_in_english": "buffalo gives milk",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "महिषः पादपेभ्यः चरति |",
             "meaning_in_english": "the buffalo grazes on plants",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "एष महिषः गच्छति |",
             "meaning_in_english": "this buffalo is walking",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "महिषः नद्यां तिष्ठति",
             "meaning_in_english": "the buffalo is standing in the river",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "महिषो जलं पिबति",
             "meaning_in_english": "the buffalo is drinking water",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "म",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ma.wav",
           "second_letter": "हि",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/hi.wav",
           "third_letter": "ष",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sa.wav"
         },
         "other_names": {
           "name_one": "स्कन्धशृङ्ग",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/skandaskulga.wav",
           "name_one_split": {
             "first_letter": "स्क",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ska.wav",
             "second_letter": "न्ध",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/inda.wav",
             "third_letter": "शृ",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shu.wav",
             "fourth_letter":"ङ्ग",
-            "fourth_letter_pronounciation":"audio file"
+            "fourth_letter_pronounciation":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/inga.wav"
           },
           "name_two": "बलिन्",
-          "name_two_pronounciation": "audio file",
+          "name_two_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/balina.wav",
           "name_two_split": {
             "first_letter": "ब",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ba.wav",
             "second_letter": "लि",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/li.wav",
             "third_letter": "न्",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/in.wav"
           },
           "name_three": "क्रोधिन्",
-          "name_three_pronounciation": "audio file",
+          "name_three_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/krodhin.wav",
           "name_three_split": {
             "first_letter": "क्रो",
-            "first_letter_pronciation": "audio file",
+            "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/kro.wav",
             "second_letter": "धि",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/dhi.wav",
             "third_letter": "न्",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/in.wav"
           }
         },
         "opposite_gender_split": {
           "first_letter": "म",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ma.wav",
           "second_letter": "हि",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/hi.wav",
           "third_letter": "षी",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shi.wav"
         }
       },
       "elephant": {
         "starting_alphabet": "ग",
         "common_name": "गज",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/gaja.wav",
         "opposite_gender": "करिणी",
-        "opposite_gender_pronounciation": "audio file",
+        "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/karni.wav",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गजः कथं मृतः ?",
             "meaning_in_english": "How did the elephant die?",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "गजं कः मारितवान् ?",
             "meaning_in_english": "Who has killed the elephant ?",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "टोराण्टो-नगरस्य मृगशालायाम् एकं सुन्दरं शिशु गजं दृष्टवती|",
             "meaning_in_english": "The baby elephant was the cutest I saw in the Toronto zoo.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "विमदी करोति",
             "meaning_in_english": "free an elephant",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "श्रीरङ्ग मन्दिरे सः गजः सर्वान् आकर्षयति|",
             "meaning_in_english": "That elephant is the center of attraction in the Srirangamtemple.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence5.wav"
           }
         },
         "common_name_split": {
-          "first_letter": "गज",
-          "first_letter_pronounciation": "audio file",
+          "first_letter": "ग",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ga.wav",
           "second_letter": "ज",
-          "second_letter_pronounciation": "audio file"
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ja.wav"
         },
         "other_names": {
           "name_one": "कुञ्चर",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/kunjar.wav",
           "name_one_split": {
             "first_letter": "कु",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ku.wav",
             "second_letter": "ञ्च",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ing.wav",
             "third_letter": "र",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ra.wav"
           },
           "name_two": "मतङ्गज",
-          "name_two_pronounciation": "audio file",
+          "name_two_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/matangaja.wav",
           "name_two_split": {
             "first_letter": "म",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ma.wav",
             "second_letter": "त",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ta.wav",
             "third_letter": "ङ्ग",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/nj.wav",
             "fourth_letter": "ज",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ja.wav"
           }
         },
         "opposite_gender_split": {
           "first_letter": "क",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ka.wav",
           "second_letter": "रि",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ri.wav",
           "third_letter": "णी",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ni.wav"
         }
       },
       "cow": {
