@@ -4,78 +4,78 @@
       "dog": {
         "starting_alphabet": "कु",
         "common_name": "कुक्कुर",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/kukura.wav",
         "opposite_gender": "शुनी",
-        "opposite_gender_pronounciation": "audio file",
+        "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shuni.wav",
         "image": "link to image",
         "wild_dog": "आरण्यशुनक",
-        "wild_dog_pronounciation": "audio_file",
+        "wild_dog_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/aranyasunaka.wav",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "शुनकः जलंपिबन् आसीत् |",
             "meaning_in_english": "The dog was drinking water",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "मम शुनकस्य अपेक्षया तस्य शुनकः स्थूलः |",
             "meaning_in_english": "His dog is fatter than my dog.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "कुक्कुर भषति।",
             "meaning_in_english": "The dog barks",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "कुक्कुरं पश्यति।",
             "meaning_in_english": "He sees the dog",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "शुनकः किमर्थम् इत्थं भषति ?",
             "meaning_in_english": "Why is the dog barking like this?",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "कु",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ku.wav",
           "second_letter": "क्कु",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/kuu.wav",
           "third_letter": "र",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ra.wav"
         },
         "other_names": {
           "name_one": "शुनक",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shunaka.wav",
           "name_one_split": {
             "first_letter": "शु",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shu.wav",
             "second_letter": "न",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/na.wav",
             "third_letter": "क",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ka.wav"
           }
         },
         "opposite_gender_split": {
           "first_letter": "शु",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shu.wav",
           "second_letter": "नी",
-          "second_letter_pronounciation": "audio file"
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ni.wav"
         },
         "wild_dog_split": {
           "first_letter": "आ",
-          "first_letter_pronciation": "audio file",
+          "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/aa.wav",
           "second_letter": "र",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ra.wav",
           "third_letter": "ण्य",
-          "third_letter_pronounciation": "audio file",
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/nya.wav",
           "fourth_letter": "शु",
-          "fourth_letter_pronounciation": "audio file",
+          "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shu.wav",
           "fifth_letter": "न",
-          "fifth_letter_pronounciation": "audio file",
+          "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/na.wav",
           "sixth_letter": "क",
-          "sixth_letter_pronounciation": "audio_file"
+          "sixth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ka.wav"
         }
       },
       "cat": {
@@ -1724,7 +1724,7 @@
           "second_letter_pronounciation": "audio file"
         }
       },
-    
+
       "gorilla": {
         "starting_alphabet": "भी",
         "common_name": "गोरिल्लः",
@@ -2247,7 +2247,7 @@
           "second_letter": "",
           "second_letter_pronounciation": "audio file"
         }
-      },      
+      },
       "butterfly": {
         "starting_alphabet": "चि",
         "common_name": "चित्रपतङ्ग",
@@ -2313,10 +2313,10 @@
           "name_two_split": {
             "first_letter": "प",
             "first_letter_pronounciation": "audio file",
-            "second_letter":"त",
-            "second_letter_pronounciation":"audio file",
-            "third_letter":"ङ्गाः",
-            "third_letter_pronounciation":"audio file"
+            "second_letter": "त",
+            "second_letter_pronounciation": "audio file",
+            "third_letter": "ङ्गाः",
+            "third_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -2327,7 +2327,7 @@
         }
       },
       "beetle": {
-        "starting_alphabet": "ति",
+        "starting_alphabet": "ति Not Cleaned",
         "common_name": "तितिभ",
         "pronounciation": "audio file",
         "opposite_gender_pronounciation": "audio file",
@@ -2752,7 +2752,7 @@
           "second_letter": "",
           "second_letter_pronounciation": "audio file"
         }
-      
+      }
     },
     "birds": {
       "peacock": {
