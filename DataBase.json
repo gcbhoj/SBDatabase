@@ -81,64 +81,64 @@
       "cat": {
         "starting alphabet": "बि",
         "common_name": "बिडाला",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/bidala.wav",
         "opposite_gender": "मार्जारी",
-        "opposite_gender_pronounciation": "audio file",
+        "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/marjari.wav",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "एषः मार्जारः,नतु शुनकः|",
             "meaning_in_english": "It's a cat,not a dog.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "बिडालः दुग्धं पिबति।",
             "meaning_in_english": "The cat drinks milk.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "बिडालः वृक्षे आरोहति।",
             "meaning_in_english": "The cat climbs the tree.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "बालकः बिडालं पश्यति।",
             "meaning_in_english": "The boy sees the cat.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "बिडालः मृगं अन्वेति।",
             "meaning_in_english": "The cat chases the prey.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "बि",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/kbi.wav",
           "second_letter": "डा",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/da.wav",
           "third_letter": "ला",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/la.wav"
         },
         "other_names": {
-          "name_one": "मार्जार",
-          "name_one_pronounciation": "audio file",
+          "name_one": "मार्जा",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/marjara.wav",
           "name_one_split": {
             "first_letter": "मा",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ma.wav",
             "second_letter": "र्जा",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ja.wav",
             "third_letter": "र",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ra.wav"
           }
         },
         "opposite_gender_split": {
           "first_letter": "मा",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ma.wav",
           "second_letter": "र्जा",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ja.wav",
           "third_letter": "री",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ri.wav"
         }
       },
       "buffalo": {
