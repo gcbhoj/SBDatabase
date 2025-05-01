@@ -1948,13 +1948,13 @@
         "starting_alphabet": "गृ",
         "common_name": "गृहगोदिका",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/grihagodika.wav",
-        "images":{
-"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_1.jpg",
-"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_2.jpg",
-"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_3.jpg",
-"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_4.jpg",
-"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_5.jpg"
-},
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गृहगोधिका गृहाणां भित्तिषु वसति।",
@@ -2033,13 +2033,13 @@
         "starting_alphabet": "म",
         "common_name": "मकर",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/makar.wav",
-        "images":{
-"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_1.jpg",
-"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_2.jpg",
-"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_3.jpg",
-"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_4.jpg",
-"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_5.jpg"
-},
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "मकरः स्थूलो, बलवान्, पृष्ठग्रहः ।",
@@ -2108,13 +2108,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/kachhapa.wav",
         "opposite_gender": "कमठी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/kamati.wav",
-        "images":{
-"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_1.jpg",
-"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_2.jpg",
-"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_3.jpg",
-"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_4.jpg",
-"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_5.jpg"
-},
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "कच्छपः मन्दगामी सरीसृपः अस्ति।",
@@ -2195,13 +2195,13 @@
         "starting_alphabet": "कृ",
         "common_name": "कृकलास",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/chamelion/krikalash.wav",
-        "images":{
-"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_1.jpg",
-"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_2.jpg",
-"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_3.jpg",
-"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_4.jpg",
-"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_5.jpg"
-},
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "कृकलास वर्णम् परिवर्तयति।",
@@ -2231,7 +2231,13 @@
         "starting_alphabet": "म",
         "common_name": "मण्डूक",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/manduka.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/frog/frog_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/frog/frog_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/frog/frog_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/frog/frog_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/frog/frog_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "मण्डूकः जले वसति च भूमौ च।",
