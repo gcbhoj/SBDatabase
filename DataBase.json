@@ -2661,34 +2661,31 @@
         "starting_alphabet": "म",
         "common_name": "मयूर",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मयूरः महान् वर्णवन्तश्च पक्षी भवति ।",
+            "meaning_in_english": "A peacock is a large, colorful bird.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मयूरः महत्पक्षिराजः विविधवर्णयुक्तः ।",
+            "meaning_in_english": "A peacock is a large, colorful bird.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "पुरुषः मयूरः शोभां दर्शयितुम् पुच्छम् विस्तारयति।",
+            "meaning_in_english": "The male peacock spreads its tail to show off its beauty.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मयूरः वनेषु उद्यानेषु च वसति ।",
+            "meaning_in_english": "The peacock lives in forests and gardens.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मयूरः भारतस्य राष्ट्रपक्षीः",
+            "meaning_in_english": "The peacock is the national bird of India.",
             "pronounciation": "audio file"
           }
         },
@@ -2698,14 +2695,6 @@
           "second_letter": "यू",
           "second_letter_pronounciation": "audio file",
           "third_letter": "र",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -2745,21 +2734,12 @@
             "fourth_letter": "क",
             "fourth_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "parrot": {
         "starting_alphabet": "सु",
         "common_name": "सुक",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
