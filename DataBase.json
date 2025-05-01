@@ -438,301 +438,300 @@
       "sheep": {
         "starting_alphabet": "मे",
         "common_name": "मेष",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/mesha.wav",
         "opposite_gender": "एडक",
-        "opposite_gender_pronounciation": "audio file",
+        "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/aadka.wav",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "उज्ज्वले विटपिनालके शान्तं चरन्ति स्म मेषाः",
             "meaning_in_english": "sheep were grazing peacefully in the green meadow.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "मेषस्य रोमाणि प्रत्यवसरे छिद्यन्ते वस्त्राणि कर्तुम्।",
             "meaning_in_english": "A sheep’s wool is sheared every spring to make clothing.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "सूर्यास्तमयात् पूर्वम् पशुपालः आजान् अविकम् प्रत्यानयत् ।",
             "meaning_in_english": "The shepherd guided the sheep back to the pen before sunset.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "मेषः उच्चैः शब्दमकरोत् यदा स ओघात् वियुज्यते।",
             "meaning_in_english": "The sheep bleated loudly when it got separated from the flock.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "आरोग्यवान् मेषः ऊर्णां उत्पादयितुं शक्नोति या कोमलपट्टस्य निर्माणाय प्रयुज्यते।",
             "meaning_in_english": "A healthy sheep can produce wool that is used for making soft fabrics.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "मे",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/me.wav",
           "second_letter": "ष",
-          "second_letter_pronounciation": "audio file"
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/sha.wav"
         },
         "other_names": {
           "name_one": "बहुरोमन्",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/bahuroman.wav",
           "name_one_split": {
             "first_letter": "ब",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/ba.wav",
             "second_letter": "हु",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/hu.wav",
             "third_letter": "रो",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/ro.wav",
             "fourth_letter": "म",
-            "fourth_letter_pronounciation": "audio file",
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/ma.wav",
             "fifth_letter": "न्",
-            "fifth_letter_pronounciation": "audio file"
+            "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/in.wav"
           }
         },
         "opposite_gender_split": {
           "first_letter": "ए",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/aa.wav",
           "second_letter": "ड",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/da.wav",
           "third_letter": "क",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/ka.wav"
         }
       },
       "horse": {
         "starting_alphabet": "अ",
         "common_name": "अश्व",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/aashva.wav",
         "opposite_gender": "घोटिका",
-        "opposite_gender_pronounciation": "audio file",
+        "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/ghotika.wav",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "अयं कस्य अश्वः?",
             "meaning_in_english": "Whose horse is this?",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "प्राङ्गणे मम अश्वद्वयम् अस्ति",
             "meaning_in_english": "My two horses are in the courtyard.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "चत्वारः अश्वाः आसन् |ते सर्वे अपि मम प्रियाः आसन्|",
             "meaning_in_english": "There were four horses and I loved them all.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "बहु दूरे एकः अश्वः एकः शकटेन सह मन्दं गच्छन् आसीत् |",
             "meaning_in_english": "He sees the dog",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "द्वारस्य पुरतः अश्वे एकः आरक्षकः आसीत् |",
             "meaning_in_english": "In front of the gate, on the horse,there was a policeman.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "अ",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/a.wav",
           "second_letter": "श्व",
-          "second_letter_pronounciation": "audio file"
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/shva.wav"
         },
         "other_names": {
           "name_one": "राजस्कन्ध",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/rajaskandha.wav",
           "name_one_split": {
             "first_letter": "रा",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/ra.wav",
             "second_letter": "ज",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/ja.wav",
             "third_letter": "स्क",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/ska.wav",
             "fourth_letter": "न्ध",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/indha.wav"
           },
           "name_two": "वाहनश्रेष्ठ",
-          "name_two_pronounciation": "audio file",
+          "name_two_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/vahanashrestha.wav",
           "name_two_split": {
             "first_letter": "वा",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/va.wav",
             "second_letter": "ह",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/ha.wav",
             "third_letter": "न",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/na.wav",
             "fourth_letter": "श्रे",
-            "fourth_letter_pronounciation": "audio file",
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/shre.wav",
             "fifth_letter": "ष्ठ",
-            "fifth_letter_pronounciation": "audio file"
+            "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/stha.wav"
           }
         },
         "opposite_gender_split": {
           "first_letter": "घो",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/gho.wav",
           "second_letter": "टि",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/ti.wav",
           "third_letter": "का",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/kaa.wav"
         }
       },
       "donkey": {
         "starting_alphabet": "ग",
         "common_name": "गर्दभ",
-        "pronounciation": "audio file",
-        "opposite_gender_pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/gardhaba.wav",
         "image": "link to image",
         "wild_donkey": "गौरखर",
-        "wild_donkey_pronounciation": "audio_file",
+        "wild_donkey_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/gauraghara.wav",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गर्दभः भारान् गुरून् पर्वतमार्गेण उह्यते।",
             "meaning_in_english": "The donkey carried heavy loads up the mountain trail.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "कृषको गर्दभेन वस्तूनि मार्गशीर्षे प्रापयामास।",
             "meaning_in_english": "The farmer used a donkey to transport goods to the market.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "गर्दभः भयात् उद्विग्नो वा उच्चैः रौति।",
             "meaning_in_english": "A donkey brays loudly when it feels threatened or excited.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "गर्दभः कठिनपरिश्रमेषु धैर्यशक्तिभ्यां प्रसिद्धः ।",
             "meaning_in_english": "The donkey is known for its patience and strength in tough work conditions.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "गर्दभः दीर्घदिनानन्तरम् वृक्षस्य छायायाम् शान्तम् विश्राम्यति स्म ।",
             "meaning_in_english": "The donkey was peacefully resting under the shade of a tree after a long day.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "ग",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/ga.wav",
           "second_letter": "र्द",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/rdha.wav",
           "third_letter": "भ",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/bha.wav"
         },
         "other_names": {
           "name_one": "धूम्रकर्ण",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/dhumrakarna.wav",
           "name_one_split": {
             "first_letter": "धू",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/dhu.wav",
             "second_letter": "म्र",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/mra.wav",
             "third_letter": "क",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/ka.wav",
             "fourth_letter": "र्ण",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/rna.wav"
           },
           "name_two": "स्मरस्मर्य",
-          "name_two_pronounciation": "audio file",
+          "name_two_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/smarasmariya.wav",
           "name_two_split": {
             "first_letter": "स्म",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/sma.wav",
             "second_letter": "र",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/ra.wav",
             "third_letter": "स्म",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/sma.wav",
             "fourth_letter": "र्य",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/rya.wav"
           }
         },
         "wild_donkey_split": {
           "first_letter": "गौ",
-          "first_letter_pronciation": "audio file",
+          "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/gau.wav",
           "second_letter": "र",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/ra.wav",
           "third_letter": "ख",
-          "third_letter_pronounciation": "audio file",
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/kha.wav",
           "fourth_letter": "र",
-          "fourth_letter_pronounciation": "audio file"
+          "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/ra.wav"
         }
       },
       "lion": {
         "starting_alphabet": "सि",
         "common_name": "सिंह",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/simha.wav",
         "opposite_gender": "सिंही",
-        "opposite_gender_pronounciation": "audio file",
+        "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/simhi.wav",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "सिंहः आगच्छन् अस्ति |",
             "meaning_in_english": "a lion is coming",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "सिंहः मृगम् अमारयत्|",
             "meaning_in_english": "The lion killed a deer",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "वने सिंहः गर्जति।",
             "meaning_in_english": "The lion roars in the forest.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "सिंहः शशं हनिष्यति इति शृगालः अवदत् |",
             "meaning_in_english": "The lion will kill the rabbit-said the fox.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "नाणकस्य एकस्मिन् पक्षे एका सिंहास्य मुद्रा आसीत्|",
             "meaning_in_english": "On one side of the coin,there was a lion.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "सिं",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/sim.wav",
           "second_letter": "ह",
-          "second_letter_pronounciation": "audio file"
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/ha.wav"
         },
         "other_names": {
           "name_one": "पशुराज",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/pashuraja.wav",
           "name_one_split": {
             "first_letter": "प",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/pa.wav",
             "second_letter": "शु",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/shu.wav",
             "third_letter": "रा",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/raa.wav",
             "fourth_letter": "ज",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/ja.wav"
           },
           "name_two": "शृङ्गोष्णीष",
-          "name_two_pronounciation": "audio file",
+          "name_two_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/shulgostanisha.wav",
           "name_two_split": {
             "first_letter": "शृ",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/shul.wav",
             "second_letter": "ङ्गो",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/gho.wav",
             "third_letter": "ष्णी",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/ani.wav",
             "fourth_letter": "ष",
-            "fourth_letter_pronounciation": ""
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/sha.wav"
           },
           "name_three": "हरिणेश",
-          "name_three_pronounciation": "audio file",
+          "name_three_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/harinesha.wav",
           "name_three_split": {
             "first_letter": "ह",
-            "first_letter_pronciation": "audio file",
+            "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/ha.wav",
             "second_letter": "रि",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/ri.wav",
             "third_letter": "णे",
-            "third_letter_pronciation": "",
+            "third_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/.wav",
             "fourth_letter": "श",
-            "fourth_letter_pronounciation": ""
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/sa.wav"
           }
         },
         "opposite_gender_split": {
