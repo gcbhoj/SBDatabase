@@ -2290,7 +2290,6 @@
         "starting_alphabet": "म",
         "common_name": "मधुमक्षिका",
         "pronounciation": "audio file",
-        "opposite_gender_pronounciation": "audio file",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -2330,19 +2329,12 @@
           "fourth_letter_pronounciation": "audio file",
           "fifth_letter": "का",
           "fifth_letter_pronounciation": "audio file"
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "butterfly": {
         "starting_alphabet": "चि",
         "common_name": "चित्रपतङ्ग",
         "pronounciation": "audio file",
-        "opposite_gender_pronounciation": "audio file",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -2408,44 +2400,37 @@
             "third_letter": "ङ्गाः",
             "third_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "beetle": {
-        "starting_alphabet": "ति Not Cleaned",
+        "starting_alphabet": "ति",
         "common_name": "तितिभ",
         "pronounciation": "audio file",
-        "opposite_gender_pronounciation": "audio file",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "खपरधारी कीटः वृश्चिकः ।",
+            "meaning_in_english": "A beetle is a type of insect with a hard shell.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वृश्चिकाः बहुवर्णाः बहुपरिमाणाश्च भवन्ति।",
+            "meaning_in_english": "Beetles come in many colors and sizes.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "वृश्चिकाः षट् पादाः द्वे ललाटान्ताः च सन्ति।",
+            "meaning_in_english": "beetles have six legs and two antennae.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "केचन खड्गी गूढपक्षैः विहरन्ति।",
+            "meaning_in_english": "Some beetles can fly using hidden wings.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "वृक्षारण्येषु उद्यानेषु च गृहेषु च खद्योतानि वसन्ति।",
+            "meaning_in_english": "Beetles live in forests, gardens, and even houses.",
             "pronounciation": "audio file"
           }
         },
@@ -2457,79 +2442,48 @@
           "third_letter": "भ",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_one": "",
+          "name_one": "वृश्चिकाः",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "वृ",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
+            "second_letter": "श्चि",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "",
+            "third_letter": "काः",
             "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "mosquito": {
         "starting_alphabet": "म",
         "common_name": "मशक",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मशकः क्षुद्रः पतत्त्री दीर्घपादवान्।",
+            "meaning_in_english": "A mosquito is a small flying insect with long legs.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "स्त्री मशकः मानवान् पशूंश्च दशति रुधिरं पिबतुः।",
+            "meaning_in_english": "The female mosquito bites people and animals to drink blood.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मशकः स्थिरजले अण्डानि निक्षिपति।",
+            "meaning_in_english": "The mosquito lays eggs in still water.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मशकः रोगान् मलेरिया धनुष्काग्रज्वर इत्यादीन् विस्तारयति।",
+            "meaning_in_english": "The mosquito can spread diseases like malaria and dengue.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "मशकः गच्छन् कीटमधुरनादं करोति।",
+            "meaning_in_english": "The mosquito makes a buzzing sound when it flies.",
             "pronounciation": "audio file"
           }
         },
@@ -2539,14 +2493,6 @@
           "second_letter": "श",
           "second_letter_pronounciation": "audio file",
           "third_letter": "क",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -2563,61 +2509,38 @@
             "fourth_letter_pronounciation": "audio file",
             "fifth_letter": "का",
             "fifth_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "grasshopper": {
         "starting_alphabet": "फ",
         "common_name": "फडिङ्गा",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शलभः हरितः कीटः दीर्घपश्चात्पादः ।",
+            "meaning_in_english": "A grasshopper is a green insect with long back legs.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "फडिङ्गा उच्चं दूरं च अतिक्रमितुम् शक्नोति।",
+            "meaning_in_english": "The grasshopper can jump very high and far.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "फडिङ्गा पर्णानि च तृणानि च अत्ति।",
+            "meaning_in_english": "The grasshopper eats leaves and grass.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "फडिङ्गा पादाभ्यां घर्घरायते।",
+            "meaning_in_english": "The grasshopper makes a chirping sound by rubbing its legs.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "प्राणिः क्षेत्रेषु तृणक्षेत्रेषु च वसति।",
+            "meaning_in_english": "The grasshopper lives in fields and grassy areas.",
             "pronounciation": "audio file"
           }
         },
@@ -2628,80 +2551,22 @@
           "second_letter_pronounciation": "audio file",
           "third_letter": "ङ्गा",
           "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
-        "other_names": {
-          "name_one": "",
-          "name_one_pronounciation": "audio file",
-          "name_one_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
-          }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "dragonfly": {
         "starting_alphabet": "व्य",
         "common_name": "व्याधपतङ्ग",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "व्याधपतङ्ग दीर्घेण तन्वा शरीरेण पतत्रः कीटः",
+            "meaning_in_english": "A dragonfly is a flying insect with a long, thin body.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "व्याधपतङ्ग द्वे ज़ोरे महतः स्वच्छे पक्षे अस्येति।",
+            "meaning_in_english": "The dragonfly has two pairs of large, clear wings.",
             "pronounciation": "audio file"
           }
         },
@@ -2715,80 +2580,27 @@
           "fourth_letter": "त",
           "fourth_letter_pronounciation": "audio file",
           "fifth_letter": "ङ्ग"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
-        "other_names": {
-          "name_one": "",
-          "name_one_pronounciation": "audio file",
-          "name_one_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
-          }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       "termite": {
         "starting_alphabet": "पु",
         "common_name": "पुत्तिका",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "पुत्तिका स्वल्पः पाण्डुवर्णः कीटः समूहेषु वसति।",
+            "meaning_in_english": "A termite is a small, pale insect that lives in colonies.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "पुत्तिका दारुमत्ति च भवनान्यपि हिनस्ति।",
+            "meaning_in_english": "The termite eats wood and can damage buildings.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "चित्रला भूमितले अथवा काष्ठे सुरंगानि निर्माति तथा नीड़ानि करोति।",
+            "meaning_in_english": "The termite builds tunnels and nests underground or in wood.",
             "pronounciation": "audio file"
           }
         },
@@ -2798,14 +2610,6 @@
           "second_letter": "त्ति",
           "second_letter_pronounciation": "audio file",
           "third_letter": "का",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -2820,27 +2624,7 @@
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "क",
             "fifth_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       }
     },
