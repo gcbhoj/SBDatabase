@@ -2289,341 +2289,369 @@
       "bee": {
         "starting_alphabet": "म",
         "common_name": "मधुमक्षिका",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/madhumakshikaa.wav",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bee/bee_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bee/bee_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bee/bee_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bee/bee_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bee/bee_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "मधुमक्षिका मधु करोति",
             "meaning_in_english": "A bee makes honey.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "मधुमक्षिकाः कोषेषु वसन्ति।",
             "meaning_in_english": "Bees live in hives.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "मधुमक्खी कृष्णपीतवर्णा रेखाः विद्यते।",
             "meaning_in_english": "A bee has black and yellow stripes.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "मधुमक्षिकाः पुष्पेभ्यः मधु सञ्चिन्वन्ति।",
             "meaning_in_english": "Bees collect nectar from flowers.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "मधुमक्खिः अपि दंशयितुं शक्नोति यदा सा भयान्विता भवति।",
             "meaning_in_english": "A bee can sting when it feels threatened.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/sentence4.wav"
           }
         },
         "common_name_split": {
           "first_letter": "म",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/ma.wav",
           "second_letter": "धु",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/dhu.wav",
           "third_letter": "म",
-          "third_letter_pronounciation": "audio file",
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/ma.wav",
           "fourth_letter": "क्षि",
-          "fourth_letter_pronounciation": "audio file",
+          "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/shi.wav",
           "fifth_letter": "का",
-          "fifth_letter_pronounciation": "audio file"
+          "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bee/kaa.wav"
         }
       },
       "butterfly": {
         "starting_alphabet": "चि",
         "common_name": "चित्रपतङ्ग",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/chitrapatanga.wav",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/butterfly/butterfly_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/butterfly/butterfly_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/butterfly/butterfly_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/butterfly/butterfly_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/butterfly/butterfly_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "प्रजापतेः कृमिः वर्णमय पक्षम्।",
             "meaning_in_english": "A butterfly has colorful wings.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "पतङ्गाः पुष्पात् पुष्पम् पतन्ति।",
             "meaning_in_english": "Butterflies fly from flower to flower.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "कीटः पुत्रिकायाः निर्गच्छति।",
             "meaning_in_english": "A butterfly comes out of a cocoon.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "बालाः पतङ्गान् पश्यन्ति प्रीत्या।",
             "meaning_in_english": "Children love to watch butterflies.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "प्रजापतिगृहाः वनानि च उद्यानानि च वसन्ति।",
             "meaning_in_english": "Butterflies live in gardens and forests.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "चि",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/chi.wav",
           "second_letter": "त्र",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/tra.wav",
           "third_letter": "प",
-          "third_letter_pronounciation": "audio file",
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/pa.wav",
           "fourth_letter": "त",
-          "fourth_letter_pronounciation": "audio file",
+          "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/ta.wav",
           "fifth_letter": "ङ्ग",
-          "fifth_letter_pronounciation": "audio file"
+          "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/nga.wav"
         },
         "other_names": {
           "name_one": "पुष्पपतङ्ग",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/puspapatanga.wav",
           "name_one_split": {
             "first_letter": "पु",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/pu.wav",
             "second_letter": "ष्प",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/spa.wav",
             "third_letter": "प",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/pa.wav",
             "fourth_letter": "त",
-            "fourth_letter_pronounciation": "audio file",
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/ta.wav",
             "fifth_letter": "ङ्ग",
-            "fifth_letter_pronounciation": "audio file"
-          },
-          "name_two": "पतङ्गाः",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "प",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "त",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "ङ्गाः",
-            "third_letter_pronounciation": "audio file"
+            "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/butterfly/nga.wav"
           }
         }
       },
       "beetle": {
         "starting_alphabet": "ति",
         "common_name": "तितिभ",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/titibha.wav",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/beetle/beetle_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/beetle/beetle_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/beetle/beetle_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/beetle/beetle_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/beetle/beetle_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "खपरधारी कीटः वृश्चिकः ।",
             "meaning_in_english": "A beetle is a type of insect with a hard shell.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "वृश्चिकाः बहुवर्णाः बहुपरिमाणाश्च भवन्ति।",
             "meaning_in_english": "Beetles come in many colors and sizes.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "वृश्चिकाः षट् पादाः द्वे ललाटान्ताः च सन्ति।",
             "meaning_in_english": "beetles have six legs and two antennae.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "केचन खड्गी गूढपक्षैः विहरन्ति।",
             "meaning_in_english": "Some beetles can fly using hidden wings.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "वृक्षारण्येषु उद्यानेषु च गृहेषु च खद्योतानि वसन्ति।",
             "meaning_in_english": "Beetles live in forests, gardens, and even houses.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "ति",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/ti.wav",
           "second_letter": "ति",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/ti.wav",
           "third_letter": "भ",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/bha.wav"
         },
         "other_names": {
           "name_one": "वृश्चिकाः",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/vrishrikaha.wav",
           "name_one_split": {
             "first_letter": "वृ",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/vri.wav",
             "second_letter": "श्चि",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/shri.wav",
             "third_letter": "काः",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/beetle/kaha.wav"
           }
         }
       },
       "mosquito": {
         "starting_alphabet": "म",
         "common_name": "मशक",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/mashaka.wav",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/mosquito/mosquito_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/mosquito/mosquito_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/mosquito/mosquito_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/mosquito/mosquito_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/mosquito/mosquito_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "मशकः क्षुद्रः पतत्त्री दीर्घपादवान्।",
             "meaning_in_english": "A mosquito is a small flying insect with long legs.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "स्त्री मशकः मानवान् पशूंश्च दशति रुधिरं पिबतुः।",
             "meaning_in_english": "The female mosquito bites people and animals to drink blood.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "मशकः स्थिरजले अण्डानि निक्षिपति।",
             "meaning_in_english": "The mosquito lays eggs in still water.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "मशकः रोगान् मलेरिया धनुष्काग्रज्वर इत्यादीन् विस्तारयति।",
             "meaning_in_english": "The mosquito can spread diseases like malaria and dengue.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "मशकः गच्छन् कीटमधुरनादं करोति।",
             "meaning_in_english": "The mosquito makes a buzzing sound when it flies.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "म",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/ma.wav",
           "second_letter": "श",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/sha.wav",
           "third_letter": "क",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/ka.wav"
         },
         "other_names": {
           "name_one": "भम्भरालिका",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/bhambharalika.wav",
           "name_one_split": {
             "first_letter": "भ",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/bha.wav",
             "second_letter": "म्भ",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/mbha.wav",
             "third_letter": "रा",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/ra.wav",
             "fourth_letter": "लि",
-            "fourth_letter_pronounciation": "audio file",
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/li.wav",
             "fifth_letter": "का",
-            "fifth_letter_pronounciation": "audio file"
+            "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/mosquito/kaa.wav"
           }
         }
       },
       "grasshopper": {
         "starting_alphabet": "फ",
         "common_name": "फडिङ्गा",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/fadinga.wav",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/grasshopper/grasshopper_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/grasshopper/grasshopper_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/grasshopper/grasshopper_3.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "शलभः हरितः कीटः दीर्घपश्चात्पादः ।",
             "meaning_in_english": "A grasshopper is a green insect with long back legs.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "फडिङ्गा उच्चं दूरं च अतिक्रमितुम् शक्नोति।",
             "meaning_in_english": "The grasshopper can jump very high and far.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "फडिङ्गा पर्णानि च तृणानि च अत्ति।",
             "meaning_in_english": "The grasshopper eats leaves and grass.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "फडिङ्गा पादाभ्यां घर्घरायते।",
             "meaning_in_english": "The grasshopper makes a chirping sound by rubbing its legs.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "प्राणिः क्षेत्रेषु तृणक्षेत्रेषु च वसति।",
             "meaning_in_english": "The grasshopper lives in fields and grassy areas.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "फ",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/fa.wav",
           "second_letter": "डि",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/di.wav",
           "third_letter": "ङ्गा",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/grasshopper/inga.wav"
         }
       },
       "dragonfly": {
         "starting_alphabet": "व्य",
         "common_name": "व्याधपतङ्ग",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dragonfly/vyadhapatanga.wav",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dragonfly/dragonfly_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dragonfly/dragonfly_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dragonfly/dragonfly_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dragonfly/dragonfly_4.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "व्याधपतङ्ग दीर्घेण तन्वा शरीरेण पतत्रः कीटः",
             "meaning_in_english": "A dragonfly is a flying insect with a long, thin body.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dragonfly/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "व्याधपतङ्ग द्वे ज़ोरे महतः स्वच्छे पक्षे अस्येति।",
             "meaning_in_english": "The dragonfly has two pairs of large, clear wings.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dragonfly/sentence2.wav"
           }
         },
         "common_name_split": {
           "first_letter": "व्या",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dragonfly/vya.wav",
           "second_letter": "ध",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dragonfly/dha.wav",
           "third_letter": "प",
-          "third_letter_pronounciation": "audio file",
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dragonfly/pa.wav",
           "fourth_letter": "त",
-          "fourth_letter_pronounciation": "audio file",
-          "fifth_letter": "ङ्ग"
+          "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dragonfly/ta.wav",
+          "fifth_letter": "ङ्ग",
+          "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dragonfly/inga.wav"
         }
       },
       "termite": {
         "starting_alphabet": "पु",
         "common_name": "पुत्तिका",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/putika.wav",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/termite/termite_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/termite/termite_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/termite/termite_3.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "पुत्तिका स्वल्पः पाण्डुवर्णः कीटः समूहेषु वसति।",
             "meaning_in_english": "A termite is a small, pale insect that lives in colonies.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "पुत्तिका दारुमत्ति च भवनान्यपि हिनस्ति।",
             "meaning_in_english": "The termite eats wood and can damage buildings.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "चित्रला भूमितले अथवा काष्ठे सुरंगानि निर्माति तथा नीड़ानि करोति।",
             "meaning_in_english": "The termite builds tunnels and nests underground or in wood.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/sentence3.wav"
           }
         },
         "common_name_split": {
           "first_letter": "पु",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/pu.wav",
           "second_letter": "त्ति",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/ti.wav",
           "third_letter": "का",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/kaa.wav"
         },
         "other_names": {
           "name_one": "मत्कोटक",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/mathkotaka.wav",
           "name_one_split": {
             "first_letter": "म",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/ma.wav",
             "second_letter": "त्को",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/hko.wav",
             "third_letter": "ट",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/ta.wav",
             "fourth_letter": "क",
-            "fifth_letter_pronounciation": "audio file"
+            "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/termite/ka.wav"
           }
         }
       }
