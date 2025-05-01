@@ -1822,7 +1822,6 @@
           "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/hippopotamus/nda.wav"
         }
       },
-
       "gorilla": {
         "starting_alphabet": "भी",
         "common_name": "गोरिल्लः",
@@ -1891,311 +1890,340 @@
       "snake": {
         "starting_alphabet": "स",
         "common_name": "सर्प",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/sarpa.wav",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/snake/snake_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/snake/snake_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/snake/snake_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/snake/snake_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/snake/snake_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "यदि तत् सर्पदष्टं स्यात्,तर्हि अहम् इदानीं मृतः स्याम्|",
             "meaning_in_english": "If it was a snake bite,I would be dead now.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "एते सर्पाः विषरहिताः सन्ति |भीतिः मास्तु|",
             "meaning_in_english": "These snakes have no venom.Do not be frightened.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "केचित् सर्पाः विषवन्तः।",
             "meaning_in_english": "Some snakes are poisonous.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "सर्पः वर्धमानः त्वचं त्यजति।",
             "meaning_in_english": "A snake sheds its skin as it grows.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "अहिः जिह्वाम् उपयुज्य परिवेषम् इन्धिरे",
             "meaning_in_english": "Snakes use their tongue to sense their surroundings.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "स",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/sa.wav",
           "second_letter": "र्प",
-          "second_letter_pronounciation": "audio file"
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/rpa.wav"
         },
         "other_names": {
           "name_one": "लेलिह",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/loliha.wav",
           "name_one_split": {
             "first_letter": "ले",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/lo.wav",
             "second_letter": "लि",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/li.wav",
             "third_letter": "ह",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/snake/ha.wav"
           }
         }
       },
       "house_lizard": {
         "starting_alphabet": "गृ",
         "common_name": "गृहगोदिका",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/grihagodika.wav",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/house_lizard/lizard_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गृहगोधिका गृहाणां भित्तिषु वसति।",
             "meaning_in_english": "A house lizard lives on the walls of houses.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "गेहगोधिका मशकान् मक्षिकाश्च सूक्ष्मकीटान् अत्ति।",
             "meaning_in_english": "house lizard eats small insects like mosquitoes and flies.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "गृहगोधिकाः मानवानाम् अपायकराः भवन्ति।",
             "meaning_in_english": "House lizards are usually harmless to humans.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "गृहगोधिकाः रात्रौ प्रायः सक्रियाः भवन्ति।",
             "meaning_in_english": "house lizards are active mostly at night.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "गृहगोधिका पुच्छं भग्ने सति पुनरारोढुं शक्नोति।",
             "meaning_in_english": "A house lizard can regrow its tail if it breaks off.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/sentene5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "गृ",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/gri.wav",
           "second_letter": "ह",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/ha.wav",
           "third_letter": "गो",
-          "third_letter_pronounciation": "audio file",
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/go.wav",
           "fourth_letter": "दि",
-          "fourth_letter_pronounciation": "audio file",
+          "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/di.wav",
           "fifth_letter": "का",
-          "fifth_letter_pronounciation": "audio file"
+          "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/kaa.wav"
         },
         "other_names": {
           "name_one": "मुसलिका",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/musalikaa.wav",
           "name_one_split": {
             "first_letter": "मु",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/mu.wav",
             "second_letter": "स",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/sa.wav",
             "third_letter": "लि",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/li.wav",
             "fourth_letter": "का",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/kaa.wav"
           },
           "name_two": "पल्लिका",
-          "name_two_pronounciation": "audio file",
+          "name_two_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/paelikaa.wav",
           "name_two_split": {
             "first_letter": "प",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/pa.wav",
             "second_letter": "ल्लि",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/eli.wav",
             "third_letter": "का",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/kaa.wav"
           },
           "name_three": "लत्तिका",
-          "name_three_pronounciation": "audio file",
+          "name_three_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/latika.wav",
           "name_three_split": {
             "first_letter": "ल",
-            "first_letter_pronciation": "audio file",
+            "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/la.wav",
             "second_letter": "त्ति",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/ti.wav",
             "third_letter": "का",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/house_lizard/kaa.wav"
           }
         }
       },
       "crocodile": {
         "starting_alphabet": "म",
         "common_name": "मकर",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/makar.wav",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crocodile/crocodile_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "मकरः स्थूलो, बलवान्, पृष्ठग्रहः ।",
             "meaning_in_english": "A crocodile is a large, strong reptile.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "मकरः नदीषु सरःसु च अनूपेषु च वसति।",
             "meaning_in_english": "crocodile lives in rivers, lakes, and swamps.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "मकराः तीक्ष्णदंष्ट्राः बलवत्जम्भाः च सन्ति ।",
             "meaning_in_english": "Crocodiles have sharp teeth and powerful jaws.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "मकराः सुतरं प्लवन्ते चिरम् अन्तःसलिले वसन्ति च।",
             "meaning_in_english": "crocodiles swim very well and can stay underwater for a long time.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "मकरः मत्स्यान् अन्यानि च जन्तूनि आहाराय गृह्णाति।",
             "meaning_in_english": "A crocodile catches fish and other animals for food.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "म",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/ma.wav",
           "second_letter": "क",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/ka.wav",
           "third_letter": "र",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/ra.wav"
         },
         "other_names": {
           "name_one": "तालुजिह्व",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/talujiva.wav",
           "name_one_split": {
             "first_letter": "ता",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/taa.wav",
             "second_letter": "लु",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/lu.wav",
             "third_letter": "जि",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/ji.wav",
             "fourth_letter": "ह्व",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/vaha.wav"
           },
           "name_two": "गिलग्राह",
-          "name_two_pronounciation": "audio file",
+          "name_two_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/gilagraha.wav",
           "name_two_split": {
             "first_letter": "गि",
-            "first_letter_pronciation": "audio file",
+            "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/gi.wav",
             "second_letter": "ल",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/la.wav",
             "third_letter": "ग्रा",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/gra.wav",
             "fourth_letter": "ह",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crocodile/ha.wav"
           }
         }
       },
       "tortoise": {
         "starting_alphabet": "क",
         "common_name": "कच्छपः",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/kachhapa.wav",
         "opposite_gender": "कमठी",
-        "opposite_gender_pronounciation": "audio file",
-        "image": "link to image",
+        "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/kamati.wav",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tortoise/tortoise_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "कच्छपः मन्दगामी सरीसृपः अस्ति।",
             "meaning_in_english": "A tortoise is a slow-moving reptile.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "कच्छपः पृष्ठे कठिनं कचोपरि वसति।",
             "meaning_in_english": "tortoise has a hard shell on its back.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "कच्छपाः भूमौ वसन्ति, न जले।",
             "meaning_in_english": "Tortoises live on land, not in water.",
-            "pronounciation": ""
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "कच्छपः तृणम्, पत्राणि च फलानि च अत्ति।",
             "meaning_in_english": "tortoise eat grass, leaves, and fruits.",
-            "pronounciation": ""
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "कच्छपः बहुवर्षाणि जीवितुम् शक्नोति।",
             "meaning_in_english": "A tortoise can live for many years.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "क",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/ka.wav",
           "second_letter": "च्छ",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/chha.wav",
           "third_letter": "पः",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/pan.wav"
         },
         "other_names": {
           "name_one": "पञ्चगूढ",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/panchaguda.wav",
           "name_one_split": {
             "first_letter": "प",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/pa.wav",
             "second_letter": "ञ्च",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/chha.wav",
             "third_letter": "गू",
-            "third_letter_pronounciation": "audio file",
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/gu.wav",
             "fourth_letter": "ढ",
-            "fourth_letter_pronounciation": "audio file"
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/da.wav"
           },
           "name_two": "कूर्म",
-          "name_two_pronounciation": "audio file",
+          "name_two_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/kurma.wav",
           "name_two_split": {
             "first_letter": "कू",
-            "first_letter_pronciation": "audio file",
+            "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/kur.wav",
             "second_letter": "र्म",
-            "second_letter_pronounciation": "audio file"
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/rma.wav"
           },
           "name_three": "कच्छेष्ट",
-          "name_three_pronounciation": "audio file",
+          "name_three_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/kachesta.wav",
           "name_three_split": {
             "first_letter": "क",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/ka.wav",
             "second_letter": "च्छे",
-            "second_letter_pronounciation": "audio file",
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/chhe.wav",
             "third_letter": "ष्ट",
-            "third_letter_pronounciation": "audio file"
+            "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/sta.wav"
           }
         },
         "opposite_gender_split": {
           "first_letter": "क",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/ka.wav",
           "second_letter": "म",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/ma.wav",
           "third_letter": "ठी",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tortoise/thi.wav"
         }
       },
       "chamelion": {
         "starting_alphabet": "कृ",
         "common_name": "कृकलास",
-        "pronounciation": "audio file",
-        "image": "link to image",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/chamelion/krikalash.wav",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/chamelion/chamelion_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "कृकलास वर्णम् परिवर्तयति।",
             "meaning_in_english": "A chameleon can change its color.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/chamelion/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "कृकलास दीर्घां पिच्छिलां जिह्वां कीटान् ग्रहीतुम् अस्ति।",
             "meaning_in_english": "chameleon has a long, sticky tongue to catch insects.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/chamelion/sentence2.wav"
           }
         },
         "common_name_split": {
           "first_letter": "कृ",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/chamelion/kri.wav",
           "second_letter": "क",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/chamelion/ka.wav",
           "third_letter": "ला",
-          "third_letter_pronounciation": "audio file",
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/chamelion/laa.wav",
           "fourth_letter": "स",
-          "fourth_letter_pronounciation": ""
+          "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/chamelion/sa.wav"
         }
-
       }
     },
     "amphibians": {
