@@ -9,10 +9,10 @@
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shuni.wav",
         "images": {
           "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dog/dog_1.jpg",
-          "image_two": "",
-          "image_three": "",
-          "image_four": "",
-          "image_five": ""
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dog/dog_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dog/dog_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dog/dog_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dog/dog_5.jpg"
         },
         "wild_dog": "आरण्यशुनक",
         "wild_dog_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/aranyasunaka.wav",
@@ -90,7 +90,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/bidala.wav",
         "opposite_gender": "मार्जारी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/marjari.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cat/cat_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cat/cat_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cat/cat_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cat/cat_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cat/cat_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "एषः मार्जारः,नतु शुनकः|",
@@ -153,7 +159,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/buffalo/mahisha.wav",
         "opposite_gender": "महिषी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/buffalo/mahishi.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/buffalo/buffalo_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/buffalo/buffalo_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/buffalo/buffalo_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/buffalo/buffalo_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/buffalo/buffalo_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "महिषः क्षीरं ददाति |",
@@ -238,7 +250,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/elephant/gaja.wav",
         "opposite_gender": "करिणी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/elephant/karni.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/elephant/elephant_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/elephant/elephant_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/elephant/elephant_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/elephant/elephant_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/elephant/elephant_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गजः कथं मृतः ?",
@@ -311,7 +329,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/cow/dhenu.wav",
         "opposite_gender": "वृषभ",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/cow/vrishaba.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cow/cow_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cow/cow_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cow/cow_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cow/cow_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cow/cow_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "एतस्मिन् परिसरे उत्तमं क्षीरं कुतः प्राप्नोमि ? ",
@@ -372,7 +396,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/goat/aja.wav",
         "opposite_gender": "छाग",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/goat/chaga.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/goat/goat_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/goat/goat_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/goat/goat_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/goat/goat_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/goat/goat_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "अयं वस्त्रकटः अजोर्णेन निर्मितः अस्ति|",
@@ -447,7 +477,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/mesha.wav",
         "opposite_gender": "एडक",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sheep/aadka.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sheep/sheep_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sheep/sheep_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sheep/sheep_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sheep/sheep_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sheep/sheep_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "उज्ज्वले विटपिनालके शान्तं चरन्ति स्म मेषाः",
@@ -512,7 +548,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/aashva.wav",
         "opposite_gender": "घोटिका",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/horse/ghotika.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/horse/horse_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/horse/horse_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/horse/horse_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/horse/horse_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/horse/horse_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "अयं कस्य अश्वः?",
@@ -587,7 +629,13 @@
         "starting_alphabet": "ग",
         "common_name": "गर्दभ",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/gardhaba.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/donkey/donkey_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/donkey/donkey_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/donkey/donkey_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/donkey/donkey_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/donkey/donkey_5.jpg"
+        },
         "wild_donkey": "गौरखर",
         "wild_donkey_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/gauraghara.wav",
         "simple_sentences": {
@@ -668,7 +716,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/simha.wav",
         "opposite_gender": "सिंही",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/lion/simhi.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/lion/lion_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/lion/lion_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/lion/lion_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/lion/lion_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/lion/lion_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "सिंहः आगच्छन् अस्ति |",
@@ -751,7 +805,13 @@
         "starting_alphabet": "व्य",
         "common_name": "व्याघ्र",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/tiger/vyagraha.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tiger/tiger_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tiger/tiger_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tiger/tiger_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tiger/tiger_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/tiger/tiger_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "हिङ्कारम् करोति|",
@@ -807,7 +867,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/wolf/vrika.wav",
         "opposite_gender": "वृकी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/wolf/vriki.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/wolf/wolf_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/wolf/wolf_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/wolf/wolf_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/wolf/wolf_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/wolf/wolf_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "वृकोऽपूर्णचन्द्रमुद्देशेन विरहोत् स्वसङ्घमाह्वयत्।",
@@ -882,7 +948,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/fox/shrigala.wav",
         "opposite_gender": "रूपका",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/fox/rupaka.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/fox/fox_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/fox/fox_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/fox/fox_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/fox/fox_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/fox/fox_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "सिंहः शशं हनिष्यति इति शृगालः अवदत् |",
@@ -959,7 +1031,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/deer/harina.wav",
         "opposite_gender": "मृगी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/deer/mrigi.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/deer/deer_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/deer/deer_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/deer/deer_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/deer/deer_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/deer/deer_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "सिंहः मृगम् अमारयत्",
@@ -1016,7 +1094,13 @@
         "starting_alphabet": "भ",
         "common_name": "भल्लूक",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/bear/bhaluka.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bear/bear_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bear/bear_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bear/bear_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bear/bear_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/bear/bear_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "ऋक्षः वने वसति।",
@@ -1069,7 +1153,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/pig/sukara.wav",
         "opposite_gender": "सूकरी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/pig/sukari.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pig/pig_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pig/pig_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pig/pig_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pig/pig_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pig/pig_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "सूकरः कृषिशालायां वसति।",
@@ -1130,7 +1220,13 @@
         "starting_alphabet": "श",
         "common_name": "शशक",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/rabbit/shashaka.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rabbit/rabbit_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rabbit/rabbit_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rabbit/rabbit_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rabbit/rabbit_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rabbit/rabbit_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "शशः शीघ्रम् धावति",
@@ -1183,7 +1279,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/squirrel/chikrod.wav",
         "opposite_gender": "रोमशी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/squirrel/romashi.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/squirrel/squirrel_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/squirrel/squirrel_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/squirrel/squirrel_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/squirrel/squirrel_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/squirrel/squirrel_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "चिक्रोड वृक्षं आरोहति ।",
@@ -1250,7 +1352,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/camel/usthra.wav",
         "opposite_gender": "उष्ट्रिका",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/camel/ustrika.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/camel/camel_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/camel/camel_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/camel/camel_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/camel/camel_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/camel/camel_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "उष्ट्राः बहुदिनानि जलं विना जीवन्ति।",
@@ -1325,7 +1433,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/monkey/vanara.wav",
         "opposite_gender": "वानरी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/monkey/vanari.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/monkey/monkey_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/monkey/monkey_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/monkey/monkey_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/monkey/monkey_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/monkey/monkey_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "वानराः कुपिताः अभवन्",
@@ -1400,7 +1514,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/rhinoceros/gandaka.wav",
         "opposite_gender": "खड्गधेनु",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/rhinoceros/khadgadhenu.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rhino/rhino_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rhino/rhino_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rhino/rhino_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rhino/rhino_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/rhino/rhino_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "खड्गमृगः विशालशृङ्गं यत्।",
@@ -1479,7 +1599,13 @@
         "starting_alphabet": "चि",
         "common_name": "चित्ररासभ",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/zebra/chitrasabha.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/zebra/zebra_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/zebra/zebra_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/zebra/zebra_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/zebra/zebra_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/zebra/zebra_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "यवनिकायाः कृष्णशुक्लवर्णाः रेखाः सन्ति।",
@@ -1552,7 +1678,13 @@
         "starting_alphabet": "ख",
         "common_name": "खङ्गारूः",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/kangaroo/kangaroo.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kangaroo/kangaroo_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kangaroo/kangaroo_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kangaroo/kangaroo_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kangaroo/kangaroo_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kangaroo/kangaroo_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "कंगारू आस्ते ऑस्ट्रेलियायाम्।",
@@ -1609,7 +1741,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/hippopotamus/hippopotamus.wav",
         "opposite_gender": "शुण्डा",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/hippopotamus/sunda.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/hippo/hippo_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/hippo/hippo_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/hippo/hippo_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/hippo/hippo_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/hippo/hippo_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "हिप्पोपोटमसः नदीभिः सर्वाभिश्च सरोभिर्वसति।",
@@ -1689,7 +1827,13 @@
         "starting_alphabet": "भी",
         "common_name": "गोरिल्लः",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/gorilla/gorilla.wav",
-        "image": "link to image",
+        "images":{
+"image_one":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/gorilla/gorilla_1.jpg",
+"image_two":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/gorilla/gorilla_2.jpg",
+"image_three":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/gorilla/gorilla_3.jpg",
+"image_four":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/gorilla/gorilla_4.jpg",
+"image_five":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/gorilla/gorilla_5.jpg"
+},
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गोरिल्लः महान् बलवान् च पशुः ।",
