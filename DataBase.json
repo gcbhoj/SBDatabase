@@ -2231,8 +2231,6 @@
         "starting_alphabet": "म",
         "common_name": "मण्डूक",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -2278,12 +2276,6 @@
             "second_letter": "क",
             "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       }
     },
