@@ -2230,51 +2230,51 @@
       "frog": {
         "starting_alphabet": "म",
         "common_name": "मण्डूक",
-        "pronounciation": "audio file",
+        "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/manduka.wav",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "मण्डूकः जले वसति च भूमौ च।",
             "meaning_in_english": "A frog lives in water and on land.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/sentence1.wav"
           },
           "second_sentence": {
             "sentence": "मण्डूकाः लङ्घनार्थं दृढपादाः सन्ति ।",
             "meaning_in_english": "Frogs have strong legs for jumping.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/sentence2.wav"
           },
           "third_sentence": {
             "sentence": "मण्डूकः जिह्वया कीटान् गृह्णाति।",
             "meaning_in_english": "A frog catches insects with its tongue.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/sentence3.wav"
           },
           "fourth_sentence": {
             "sentence": "मण्डूकाः क्रोशन्ति।",
             "meaning_in_english": "Frogs make a croaking sound.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/sentence4.wav"
           },
           "fifth_sentence": {
             "sentence": "शिशुमण्डूकाः वालपुच्छैः इति ख्याताः।",
             "meaning_in_english": "Baby frogs are called tadpoles.",
-            "pronounciation": "audio file"
+            "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/sentence5.wav"
           }
         },
         "common_name_split": {
           "first_letter": "म",
-          "first_letter_pronounciation": "audio file",
+          "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/ma.wav",
           "second_letter": "ण्डू",
-          "second_letter_pronounciation": "audio file",
+          "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/ndu.wav",
           "third_letter": "क",
-          "third_letter_pronounciation": "audio file"
+          "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/ka.wav"
         },
         "other_names": {
           "name_one": "भेक",
-          "name_one_pronounciation": "audio file",
+          "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/bheka.wav",
           "name_one_split": {
             "first_letter": "भे",
-            "first_letter_pronounciation": "audio file",
+            "first_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/bhe.wav",
             "second_letter": "क",
-            "second_letter_pronounciation": "audio file"
+            "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/frog/ka.wav"
           }
         }
       }
