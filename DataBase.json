@@ -7,7 +7,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/kukura.wav",
         "opposite_gender": "शुनी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/shuni.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "",
+          "image_two": "",
+          "image_three": "",
+          "image_four": "",
+          "image_five": ""
+        },
         "wild_dog": "आरण्यशुनक",
         "wild_dog_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/aranyasunaka.wav",
         "simple_sentences": {
