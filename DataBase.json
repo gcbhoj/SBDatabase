@@ -1,7 +1,7 @@
 [
   {
     "category": "mammals",
-    "mammals_types": [
+    "types": [
       {
         "name": "dog",
         "starting_alphabet": "कु",
@@ -1915,7 +1915,7 @@
   },
   {
     "category": "reptiles",
-    "reptile_types": [
+    "types": [
       {
         "name": "snake",
         "starting_alphabet": "स",
@@ -2263,7 +2263,7 @@
   },
   {
     "category": "amphibians",
-    "amphibians_types": [
+    "types": [
       {
         "name": "frog",
         "starting_alphabet": "म",
@@ -2326,7 +2326,7 @@
   },
   {
     "category": "insects",
-    "insect_types": [
+    "types": [
       {
         "name": "bee",
         "starting_alphabet": "म",
@@ -2707,7 +2707,7 @@
   },
   {
     "category": "birds",
-    "bird_types": [
+    "types": [
       {
         "name": "peacock",
         "starting_alphabet": "म",
@@ -4432,7 +4432,7 @@
   },
   {
     "category": "aquatic",
-    "aquatic_type": [
+    "type": [
       {
         "name": "fish",
         "starting_alphabet": "म",
@@ -5517,7 +5517,7 @@
   },
   {
     "category": "fruits",
-    "fruit_types": [
+    "types": [
       {
         "name": "apple",
         "starting_alphabet": "से",
@@ -7702,7 +7702,7 @@
   },
   {
     "category": "vegetables",
-    "vegetables_type": [
+    "type": [
       {
         "name": "spinach",
         "starting_alphabet": "चि",
@@ -8134,7 +8134,7 @@
   },
   {
     "category": "professionals",
-    "professionals_types": [
+    "types": [
       {
         "name": "doctor",
         "starting_alphabet": "वै",
