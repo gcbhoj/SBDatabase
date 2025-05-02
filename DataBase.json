@@ -3287,7 +3287,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "बकी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -3328,27 +3327,9 @@
           "name_one_split": {
             "first_letter": "सा",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "रस्",
+            "second_letter": "र",
             "second_letter_pronounciation": "audio file",
             "third_letter": "स्",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
             "third_letter_pronounciation": "audio file"
           }
         },
@@ -3366,32 +3347,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "पिकी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कोकिलः स्वकीयेन विशिष्टेन कूजनेन प्रसिद्धो ऽल्पपक्षी अस्ति।",
+            "meaning_in_english": "The cuckoo is a small bird known for its unique call.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कोकिलः वसन्तकाले सामान्यतः गायति।",
+            "meaning_in_english": "cuckoo usually sings during the spring season.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कोकिलाः परपक्षिणां नीडेषु अण्डानि निक्षिपन्ति ।",
+            "meaning_in_english": "Cuckoos lay their eggs in other birds’ nests.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कोकिलाः वनेषु उद्यानेषु च अभिन्नदेशेषु च दृश्यन्ते।",
+            "meaning_in_english": "cuckoo are found in forests, gardens, and open lands.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "कोकिलस्य पुंसः कूजितादस्य शब्दः समुद्भवति।",
+            "meaning_in_english": "The sound “cuckoo” comes from the male bird’s call.",
             "pronounciation": "audio file"
           }
         },
@@ -3401,14 +3381,6 @@
           "second_letter": "कि",
           "second_letter_pronounciation": "audio file",
           "third_letter": "ल",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -3431,18 +3403,6 @@
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "र",
             "fourth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "",
-            "fourth_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -3459,32 +3419,31 @@
         "pronounciation": "audio file",
         "opposite_gender": "गृध्री",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृध्राः महापक्षिणः मृतानि पशूनि भक्षयन्ति।",
+            "meaning_in_english": "Vultures are large birds that eat dead animals.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृध्राः परिसरं शुद्धं रक्षन्ति।",
+            "meaning_in_english": "vultures help keep the environment clean.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृध्राः मांसं विदारयितुम् दृढतुण्डाः सन्ति।",
+            "meaning_in_english": "Vultures have strong beaks to tear meat.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृध्राः उच्चं लम्बमानं च दूरं च पतितुं शक्नुवन्ति।",
+            "meaning_in_english": "vultures can fly high and for long distances.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "अधिकतर गृध्राणां मुण्डितमस्तकं स्वच्छतार्थमस्ति यद्भक्षणकाले।",
+            "meaning_in_english": "Most vultures have bald heads to stay clean while eating.",
             "pronounciation": "audio file"
           }
         },
@@ -3493,14 +3452,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "ध्र",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "जटायु",
@@ -3550,9 +3501,6 @@
         "starting_alphabet": "क",
         "common_name": "कादम्ब",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -3566,18 +3514,13 @@
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हंसाः प्लवन्ति, गच्छन्ति, च पतन्ति।",
+            "meaning_in_english": "ducks can swim, walk, and fly.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "हंसाः ओषधीः कीटान् मत्स्यांश्च स्वल्पान् भक्षयन्ति",
+            "meaning_in_english": "ducks eat plants, insects, and small fish.",
             "pronounciation": "audio file"
           }
         },
@@ -3587,14 +3530,6 @@
           "second_letter": "द",
           "second_letter_pronounciation": "audio file",
           "third_letter": "म्ब",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -3607,68 +3542,28 @@
             "second_letter_pronounciation": "audio file",
             "third_letter": "हं",
             "third_letter_pronounciation": "audio file",
-            "fourth_letter": "हं",
+            "fourth_letter": "स",
             "fourth_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
+
         }
+
       },
       {
         "name": "flamingo",
         "starting_alphabet": "भ",
         "common_name": "भल्लाक्ष",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "फ़्लेमिन्गो दीर्घपादाः दीर्घग्रीवाश्च उच्चाः पक्षिणः भवन्ति।",
+            "meaning_in_english": "Flamingos are tall birds with long legs and necks.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "लालिमायुक्तपक्षवर्णाः फ्लेमिङ्गो नाम पक्षिणः ख्याताः।",
+            "meaning_in_english": "flamingos are known for their bright pink feathers.",
             "pronounciation": "audio file"
           }
         },
@@ -3680,45 +3575,17 @@
           "third_letter": "क्ष",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_one": "",
+          "name_one": "फ्लेमिङ्गो",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "फ्ले",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
+            "second_letter": "मि",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "",
+            "third_letter": "ङ्गो",
             "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
@@ -3726,34 +3593,21 @@
         "starting_alphabet": "मी",
         "common_name": "मीनरङ्ग",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मीनरङ्ग क्षुद्रपक्षी द्युतिमान्नीलपीतलोमवान्।",
+            "meaning_in_english": "The kingfisher is a small bird with bright blue and orange feathers.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मत्स्याधाराः जलमध्ये अवगाह्य मत्स्यान् गृह्णन्ति।",
+            "meaning_in_english": "Kingfishers catch fish by diving into the water.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "जलकुक्कुटाः नदीतीरेषु गर्तेषु नीडानि कुर्वन्ति।",
+            "meaning_in_english": "Kingfishers build nests in holes along riverbanks.",
             "pronounciation": "audio file"
           }
         },
@@ -3767,47 +3621,19 @@
           "fourth_letter": "ङ्ग",
           "fourth_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "जलमद्गु",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "जलमद्गु",
+            "first_letter": "ज",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "लमद्गु",
+            "second_letter": "ल",
             "second_letter_pronounciation": "audio file",
             "third_letter": "म",
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "द्गु",
             "fourth_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
@@ -3815,34 +3641,21 @@
         "starting_alphabet": "हि",
         "common_name": "हिमेरु",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हिमेरु कृष्णशुक्लपक्ष्माणः सन्ति।",
+            "meaning_in_english": "Penguins have black and white feathers.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हिमेरु विचित्रगत्या गच्छन्ति।",
+            "meaning_in_english": "Penguins walk with a funny waddle.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "हिमेरु समुद्रे सुस्नायुः शुष्कमत्स्यान् आहरन्ति च",
+            "meaning_in_english": "penguins swim well and catch fish in the ocean.",
             "pronounciation": "audio file"
           }
         },
@@ -3853,46 +3666,6 @@
           "second_letter_pronounciation": "audio file",
           "third_letter": "रु",
           "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
-        "other_names": {
-          "name_one": "",
-          "name_one_pronounciation": "audio file",
-          "name_one_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
-          }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
@@ -3900,34 +3673,21 @@
         "starting_alphabet": "प",
         "common_name": "पातालमयूर",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "महाविहंगः पिङ्गलरोमावान्।",
+            "meaning_in_english": "A turkey is a large bird with brown feathers.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "मासमयूराणामदुन्थुनि रक्तं चिबुकाधोललाटमस्ति।",
+            "meaning_in_english": "Turkeys have a red wattle under their beak.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "माज्जतकाः उच्चैस्तरगर्जनशब्देन प्रसिद्धाः।",
+            "meaning_in_english": "turkeys are known for their loud gobble sound.",
             "pronounciation": "audio file"
           }
         },
@@ -3944,82 +3704,29 @@
           "fifth_letter_pronounciation": "audio file",
           "sixth_letter": "र",
           "sixth_letter_pronounciation": "audio file"
-        },
-
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
-        "other_names": {
-          "name_one": "",
-          "name_one_pronounciation": "audio file",
-          "name_one_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
-          }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
+
       },
       {
         "name": "ostrich",
         "starting_alphabet": "उ",
         "common_name": "उष्ट्रपक्षी",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उष्ट्रपक्षी महत्तमः पक्षी लोके उत्तमः।",
+            "meaning_in_english": "An ostrich is the largest bird in the world.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शतपत्रकाः न विहरन्ति, किन्तु अतिवेगेन धावन्ति.",
+            "meaning_in_english": "Ostriches cannot fly, but they can run very fast.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "शुतुरुमर्गाः सर्वपक्षिणाम् अतिमहता अण्डानि निक्षिपन्ति।",
+            "meaning_in_english": "Ostriches lay the biggest eggs of any bird.",
             "pronounciation": "audio file"
           }
         },
@@ -4033,45 +3740,21 @@
           "fourth_letter": "क्षी",
           "fourth_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_one": "",
+          "name_one": "शुतुरुमर्गाः",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "शु",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
+            "second_letter": "तु",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
+            "third_letter": "रु",
+            "third_letter_pronounciation": "audio file",
+            "fourth_letter":"म",
+            "fourth_letter_pronounciation":"audio file",
+            "fifth_letter":"र्गाः",
+            "fifth_letter_pronounciation":"audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
@@ -4081,32 +3764,21 @@
         "pronounciation": "audio file",
         "opposite_gender": "कुक्कुटी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कुक्कुट्यः प्रतिदिनम् अण्डानि सृजन्ति ।",
+            "meaning_in_english": "Hens lay eggs almost every day.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कुक्कुटी अस्मिन् पक्षीगृहेषु वा कृषिस्थानेषु वसन्ति।",
+            "meaning_in_english": "hens live in coops or farms.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "कुक्कुट्यः धान्यानि कीटानि शाकानि च खादन्ति।",
+            "meaning_in_english": "Hens eat grains, insects, and vegetables.",
             "pronounciation": "audio file"
           }
         },
@@ -4118,45 +3790,13 @@
           "third_letter": "ट",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
-        "other_names": {
-          "name_one": "",
-          "name_one_pronounciation": "audio file",
-          "name_one_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
-          }
-        },
         "opposite_gender_split": {
-          "first_letter": "कुक्कुटी",
+          "first_letter": "कु",
           "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
+          "second_letter": "क्कु",
+          "second_letter_pronounciation": "audio file",
+          "third_letter": "टी",
+          "third_letter_pronounciation": "audio file"
         }
       },
       {
@@ -4164,34 +3804,21 @@
         "starting_alphabet": "श",
         "common_name": "शतच्छद",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "दारुखादकः वृक्षगुहावक्काणो पक्षी अस्ति।",
+            "meaning_in_english": "A woodpecker is a bird that pecks at tree trunks.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "दारुखादकाः तीक्ष्णतृणकायाः वृक्षत्वचं गृह्णन्ति।",
+            "meaning_in_english": "Woodpeckers have sharp claws to grip tree bark.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "वनेषु कश्चन श्रावयेत् वृक्षेषु तक्कतक्कायमानान् काष्ठतटान्।",
+            "meaning_in_english": "You can often hear woodpeckers tapping on trees in forests.",
             "pronounciation": "audio file"
           }
         },
@@ -4205,45 +3832,21 @@
           "fourth_letter": "द",
           "fourth_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_one": "",
+          "name_one": "दारुखादकाः",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
-            "first_letter": "",
+            "first_letter": "दा",
             "first_letter_pronounciation": "audio file",
-            "second_letter": "",
+            "second_letter": "रु",
             "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
+            "third_letter": "खा",
+            "third_letter_pronounciation": "audio file",
+            "fourth_letter":"द",
+            "fourth_letter_pronounciation":"audio file",
+            "fifth_letter":"काः",
+            "fifth_letter_pronounciation":"audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       }
     ]
