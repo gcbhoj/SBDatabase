@@ -2713,7 +2713,13 @@
         "starting_alphabet": "म",
         "common_name": "मयूर",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/peacock/mayur.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/peacock/peacock_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/peacock/peacock_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/peacock/peacock_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/peacock/peacock_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/peacock/peacock_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "मयूरः महान् वर्णवन्तश्च पक्षी भवति ।",
@@ -2793,7 +2799,13 @@
         "starting_alphabet": "सु",
         "common_name": "सुक",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/parrot/suka.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/parrot/parrot_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/parrot/parrot_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/parrot/parrot_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/parrot/parrot_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/parrot/parrot_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "शुकः फलम् अत्ति ।",
@@ -2861,7 +2873,11 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crow/kaaka.wav",
         "opposite_gender": "काकी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crow/kaaki.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crow/crow_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crow/crow_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crow/crow_3.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "काकः अत्यन्तं बुद्धिमानः ।",
@@ -2921,7 +2937,12 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/swan/marala.wav",
         "opposite_gender": "मराली",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/swan/marali.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/swan/swan_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/swan/swan_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/swan/swan_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/swan/swan_4.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "एतान् सरोवरान् परितः अटनं कृत्वा कादम्बान् हंसान् च द्रष्टुम् इच्छामि|",
@@ -2993,7 +3014,12 @@
         "starting_alphabet": "क",
         "common_name": "कपोत",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/pigeon/kapota.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pigeon/pigeon_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pigeon/pigeon_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pigeon/pigeon_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/pigeon/pigeon_4.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "कपोताः नगरेषु पुरेषु च वसन्ति",
@@ -3010,7 +3036,6 @@
             "meaning_in_english": "Pigeons eat grains and seeds",
             "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/pigeon/sentence3.wav"
           }
-
         },
         "common_name_split": {
           "first_letter": "क",
@@ -3062,8 +3087,8 @@
             "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/pigeon/ku.wav",
             "sixth_letter": "र",
             "sixth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/pigeon/ra.wav",
-            "seventh_letter":"व",
-            "seventh_letter_pronounciation":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/pigeon/va.wav"
+            "seventh_letter": "व",
+            "seventh_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/pigeon/va.wav"
           }
         }
       },
@@ -3072,7 +3097,12 @@
         "starting_alphabet": "उ",
         "common_name": "उलूक",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/owl/uuluka.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/owl/owl_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/owl/owl_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/owl/owl_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/owl/owl_4.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "उलूकः वृक्षेषु जीर्णगृहेषु वा वसति।",
@@ -3089,7 +3119,6 @@
             "meaning_in_english": "The owl is a bird that comes out at night.",
             "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/owl/sentence3.wav"
           }
-
         },
         "common_name_split": {
           "first_letter": "उ",
@@ -3147,7 +3176,12 @@
         "starting_alphabet": "च",
         "common_name": "चटका",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/sparrow/chatakaa.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sparrow/sparrow_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sparrow/sparrow_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sparrow/sparrow_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/sparrow/sparrow_4.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गौरैः खगः स्वल्पः पक्षी।",
@@ -3212,7 +3246,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/eagle/garuda.wav",
         "opposite_gender": "श्येनिका",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/eagle/sheyanikaa.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/eagle/eagle_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/eagle/eagle_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/eagle/eagle_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/eagle/eagle_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/eagle/eagle_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गरुडो महान् च बलवान् च पक्षी।",
@@ -3249,7 +3289,7 @@
           "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/eagle/da.wav"
         },
         "other_names": {
-                    "name_one": "वैनतेय",
+          "name_one": "वैनतेय",
           "name_one_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/eagle/vainateya.wav",
           "name_one_split": {
             "first_letter": "वै",
@@ -3286,7 +3326,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crane/baka.wav",
         "opposite_gender": "बकी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/crane/baki.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crane/crane_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crane/crane_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crane/crane_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crane/crane_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/crane/crane_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "बकाः उच्चाः पक्षिणः दीर्घैः पादैः दीर्घेण च ग्रीवया सन्ति।",
@@ -3346,7 +3392,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/cuckoo/kokila.wav",
         "opposite_gender": "पिकी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/cuckoo/piki.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cuckoo/cuckoo_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cuckoo/cuckoo_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cuckoo/cuckoo_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cuckoo/cuckoo_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/cuckoo/cuckoo_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "कोकिलः स्वकीयेन विशिष्टेन कूजनेन प्रसिद्धो ऽल्पपक्षी अस्ति।",
@@ -3418,7 +3470,13 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vulture/gridhra.wav",
         "opposite_gender": "गृध्री",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vulture/gridhri.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vulture/vulture_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vulture/vulture_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vulture/vulture_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vulture/vulture_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vulture/vulture_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गृध्राः महापक्षिणः मृतानि पशूनि भक्षयन्ति।",
@@ -3500,7 +3558,13 @@
         "starting_alphabet": "क",
         "common_name": "कादम्ब",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/duck/kaadaimba.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/duck/duck_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/duck/duck_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/duck/duck_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/duck/duck_4.jpg",
+          "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/duck/duck_5.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "प्रासादस्य पृष्ठतः महासरोवरम् आसीत् |तस्मिन् अनेके कादम्बाः आसन् |",
@@ -3544,16 +3608,18 @@
             "fourth_letter": "स",
             "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/duck/sa.wav"
           }
-
         }
-
       },
       {
         "name": "flamingo",
         "starting_alphabet": "भ",
         "common_name": "भल्लाक्ष",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/flamingo/bhalaasha.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/flamingo/flamingo_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/flamingo/flamingo_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/flamingo/flamingo_3.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "फ़्लेमिन्गो दीर्घपादाः दीर्घग्रीवाश्च उच्चाः पक्षिणः भवन्ति।",
@@ -3592,7 +3658,12 @@
         "starting_alphabet": "मी",
         "common_name": "मीनरङ्ग",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/kingfisher/minaranga.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kingfisher/kingfisher_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kingfisher/kingfisher_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kingfisher/kingfisher_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/kingfisher/kingfisher_4.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "मीनरङ्ग क्षुद्रपक्षी द्युतिमान्नीलपीतलोमवान्।",
@@ -3640,7 +3711,12 @@
         "starting_alphabet": "हि",
         "common_name": "हिमेरु",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/penguin/himearu.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/penguin/penguin_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/penguin/penguin_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/penguin/penguin_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/penguin/penguin_4.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "हिमेरु कृष्णशुक्लपक्ष्माणः सन्ति।",
@@ -3672,7 +3748,12 @@
         "starting_alphabet": "प",
         "common_name": "पातालमयूर",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/turkey/patalamayura.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/turkey/turkey_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/turkey/turkey_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/turkey/turkey_3.jpg",
+          "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/turkey/turkey_4.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "महाविहंगः पिङ्गलरोमावान्।",
@@ -3704,14 +3785,17 @@
           "sixth_letter": "र",
           "sixth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/turkey/ra.wav"
         }
-
       },
       {
         "name": "ostrich",
         "starting_alphabet": "उ",
         "common_name": "उष्ट्रपक्षी",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/ostrich/ustrapakshi.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/ostrich/ostrich_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/ostrich/ostrich_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/ostrich/ostrich_3.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "उष्ट्रपक्षी महत्तमः पक्षी लोके उत्तमः।",
@@ -3749,10 +3833,10 @@
             "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/ostrich/tu.wav",
             "third_letter": "रु",
             "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/ostrich/ru.wav",
-            "fourth_letter":"म",
-            "fourth_letter_pronounciation":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/ostrich/ma.wav",
-            "fifth_letter":"र्गाः",
-            "fifth_letter_pronounciation":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/ostrich/gaha.wav"
+            "fourth_letter": "म",
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/ostrich/ma.wav",
+            "fifth_letter": "र्गाः",
+            "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/ostrich/gaha.wav"
           }
         }
       },
@@ -3763,7 +3847,11 @@
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/hen/kukuuta.wav",
         "opposite_gender": "कुक्कुटी",
         "opposite_gender_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/hen/kukuuki.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/hen/hen_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/hen/hen_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/hen/hen_3.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "कुक्कुट्यः प्रतिदिनम् अण्डानि सृजन्ति ।",
@@ -3803,7 +3891,11 @@
         "starting_alphabet": "श",
         "common_name": "शतच्छद",
         "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/woodpecker/shatachada.wav",
-        "image": "link to image",
+        "images": {
+          "image_one": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/woodpecker/woodpecker_1.jpg",
+          "image_two": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/woodpecker/woodpecker_2.jpg",
+          "image_three": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/woodpecker/woodpecker_3.jpg"
+        },
         "simple_sentences": {
           "first_sentence": {
             "sentence": "दारुखादकः वृक्षगुहावक्काणो पक्षी अस्ति।",
@@ -3841,14 +3933,13 @@
             "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/woodpecker/ru.wav",
             "third_letter": "खा",
             "third_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/woodpecker/kha.wav",
-            "fourth_letter":"द",
-            "fourth_letter_pronounciation":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/woodpecker/da.wav",
-            "fifth_letter":"काः",
-            "fifth_letter_pronounciation":"https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/woodpecker/kaa.wav"
+            "fourth_letter": "द",
+            "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/woodpecker/da.wav",
+            "fifth_letter": "काः",
+            "fifth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/woodpecker/kaa.wav"
           }
         }
       }
     ]
   }
-
 ]
