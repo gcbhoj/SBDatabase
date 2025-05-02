@@ -2796,28 +2796,28 @@
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शुकः फलम् अत्ति ।",
+            "meaning_in_english": "The parrot eats a fruit.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शुकः हरितवर्णः ।",
+            "meaning_in_english": "The parrot is green in color.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शुकः वक्तुं शक्नोति",
+            "meaning_in_english": "The parrot can talk.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "बालः शुकं पश्यति।",
+            "meaning_in_english": "The boy sees the parrot.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "शुकः तीक्ष्णं चञ्चुं वहति",
+            "meaning_in_english": "The parrot has a sharp beak.",
             "pronounciation": "audio file"
           }
         },
@@ -2826,14 +2826,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "क",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "वक्रतुण्ड",
@@ -2859,21 +2851,7 @@
             "third_letter_pronounciation": "audio file",
             "fourth_letter": "न",
             "fourth_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
@@ -2883,32 +2861,21 @@
         "pronounciation": "audio file",
         "opposite_gender": "काकी",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "काकः अत्यन्तं बुद्धिमानः ।",
+            "meaning_in_english": "The crow is very clever.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "काकः कृष्णवर्णः ।",
+            "meaning_in_english": "The crow is black in color.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "काकः अन्नं अन्वेषति",
+            "meaning_in_english": "The crow is looking for food.",
             "pronounciation": "audio file"
           }
         },
@@ -2917,14 +2884,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "क",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "करटी",
@@ -2937,7 +2896,7 @@
             "third_letter": "टी",
             "third_letter_pronounciation": "audio file"
           },
-          "name_two": "ता",
+          "name_two": "ताम्राक्ष",
           "name_two_pronounciation": "audio file",
           "name_two_split": {
             "first_letter": "ता",
@@ -2946,14 +2905,6 @@
             "second_letter_pronounciation": "audio file",
             "third_letter": "क्ष",
             "third_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -2970,7 +2921,6 @@
         "pronounciation": "audio file",
         "opposite_gender": "मराली",
         "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -2979,23 +2929,23 @@
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हंसः श्वेतपक्षी।",
+            "meaning_in_english": "The swan is a white bird.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हंसः शोभायाः प्रतीकः ।",
+            "meaning_in_english": "The swan is a symbol of beauty.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हंसः सरसि श्यामते ।",
+            "meaning_in_english": "The swan swims gracefully in the lake.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "हंसाः दीर्घग्रीवाः सन्ति ।",
+            "meaning_in_english": "Swans have long necks.",
             "pronounciation": "audio file"
           }
         },
@@ -3005,14 +2955,6 @@
           "second_letter": "रा",
           "second_letter_pronounciation": "audio file",
           "third_letter": "ल",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -3025,7 +2967,7 @@
             "second_letter_pronounciation": "audio file",
             "third_letter": "हं",
             "third_letter_pronounciation": "audio file",
-            "fourth_letter": "हं",
+            "fourth_letter": "स",
             "fourth_letter_pronounciation": "audio file"
           },
           "name_two": "हंस",
@@ -3035,20 +2977,6 @@
             "first_letter_pronounciation": "audio file",
             "second_letter": "स",
             "second_letter_pronounciation": "audio file"
-          },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file",
-            "fourth_letter": "",
-            "fourth_letter_pronounciation": "audio file",
-            "fifth_letter": "",
-            "fifth_letter_pronounciation": "audio file"
           }
         },
         "opposite_gender_split": {
@@ -3065,36 +2993,24 @@
         "starting_alphabet": "क",
         "common_name": "कपोत",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कपोताः नगरेषु पुरेषु च वसन्ति",
+            "meaning_in_english": "Pigeons live in cities and towns",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कपोतः छायागृहेषु नीडम् करोति",
+            "meaning_in_english": "A pigeon builds its nest on rooftops",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कपोताः धान्यानि च बीजानि च खादन्ति",
+            "meaning_in_english": "Pigeons eat grains and seeds",
             "pronounciation": "audio file"
           }
+
         },
         "common_name_split": {
           "first_letter": "क",
@@ -3102,14 +3018,6 @@
           "second_letter": "पो",
           "second_letter_pronounciation": "audio file",
           "third_letter": "त",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -3152,15 +3060,11 @@
             "fourth_letter_pronounciation": "audio file",
             "fifth_letter": "कु",
             "fifth_letter_pronounciation": "audio file",
-            "sixth_letter": "रव",
-            "sixth_letter_pronounciation": "audio file"
+            "sixth_letter": "र",
+            "sixth_letter_pronounciation": "audio file",
+            "seventh_letter":"व",
+            "seventh_letter_pronounciation":"audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
@@ -3168,36 +3072,24 @@
         "starting_alphabet": "उ",
         "common_name": "उलूक",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उलूकः वृक्षेषु जीर्णगृहेषु वा वसति।",
+            "meaning_in_english": "An owl lives in trees or old buildings",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उलूकाः मूषकादीन् अल्पपशून् अश्नन्ति।",
+            "meaning_in_english": "Owls eat small animals like mice.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "उलूकः नक्तंचरः पक्षी ।",
+            "meaning_in_english": "The owl is a bird that comes out at night.",
             "pronounciation": "audio file"
           }
+
         },
         "common_name_split": {
           "first_letter": "उ",
@@ -3205,14 +3097,6 @@
           "second_letter": "लू",
           "second_letter_pronounciation": "audio file",
           "third_letter": "क",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -3256,12 +3140,6 @@
             "sixth_letter": "पु",
             "sixth_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
@@ -3269,34 +3147,26 @@
         "starting_alphabet": "च",
         "common_name": "चटका",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गौरैः खगः स्वल्पः पक्षी।",
+            "meaning_in_english": "The sparrow is a small bird.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "चकोराः कपोत-श्यामाश्च वर्णेन।",
+            "meaning_in_english": "Sparrows are brown and grey in color.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "कपोतः गृहेषु च वृक्षेषु च नीडम् करोति।",
+            "meaning_in_english": "A sparrow builds its nest in houses and trees.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
-            "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "चटके धान्यानि च कीटानि च खादन्ति।",
+            "meaning_in_english": "Sparrows eat grains and insects.",
             "pronounciation": "audio file"
           }
         },
@@ -3306,14 +3176,6 @@
           "second_letter": "ट",
           "second_letter_pronounciation": "audio file",
           "third_letter": "का",
-          "third_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
           "third_letter_pronounciation": "audio file"
         },
         "other_names": {
@@ -3327,19 +3189,9 @@
             "third_letter": "ङ्ग",
             "third_letter_pronounciation": "audio file"
           },
-          "name_two": "गुलिङ्क",
+          "name_two": "कलाविकल",
           "name_two_pronounciation": "audio file",
           "name_two_split": {
-            "first_letter": "गु",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "लि",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "ङ्क",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_three": "कलाविकल",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
             "first_letter": "क",
             "first_letter_pronciation": "audio file",
             "second_letter": "ला",
@@ -3351,14 +3203,6 @@
             "fifth_letter": "ल",
             "fifth_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         }
       },
       {
@@ -3372,28 +3216,28 @@
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गरुडो महान् च बलवान् च पक्षी।",
+            "meaning_in_english": "The eagle is a large and powerful bird.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृध्राः तीक्ष्णदृष्टयः बलवत्पञ्जाः सन्ति।",
+            "meaning_in_english": "Eagles have sharp eyes and strong claws.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गरुडः आकाशे अत्युच्चम् पतितुम् शक्नोति।",
+            "meaning_in_english": "An eagle can fly very high in the sky.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गृध्राः उच्चवृक्षेषु अथवा पाषाणप्रपातेषु नीडानि निर्माति ।",
+            "meaning_in_english": "Eagles build their nests on tall trees or cliffs.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "गरुडः पक्षिणां राजा इति ख्यातः।",
+            "meaning_in_english": "The eagle is known as the king of birds.",
             "pronounciation": "audio file"
           }
         },
@@ -3405,26 +3249,8 @@
           "third_letter": "ड",
           "third_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
-          "name_two": "",
-          "name_two_pronounciation": "audio file",
-          "name_two_split": {
-            "first_letter": "",
-            "first_letter_pronounciation": "audio file",
-            "second_letter": "",
-            "second_letter_pronounciation": "audio file",
-            "third_letter": "",
-            "third_letter_pronounciation": "audio file"
-          },
-          "name_one": "वैनतेय",
+                    "name_one": "वैनतेय",
           "name_one_pronounciation": "audio file",
           "name_one_split": {
             "first_letter": "वै",
@@ -3436,12 +3262,12 @@
             "fourth_letter": "य",
             "fourth_letter_pronounciation": "audio file"
           },
-          "name_three": "",
-          "name_three_pronounciation": "audio file",
-          "name_three_split": {
-            "first_letter": "",
-            "first_letter_pronciation": "audio file",
-            "second_letter": "",
+          "name_two": "गृध्राः",
+          "name_two_pronounciation": "audio file",
+          "name_two_split": {
+            "first_letter": "गृ",
+            "first_letter_pronounciation": "audio file",
+            "second_letter": "ध्राः",
             "second_letter_pronounciation": "audio file"
           }
         },
@@ -3465,28 +3291,28 @@
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "बकाः उच्चाः पक्षिणः दीर्घैः पादैः दीर्घेण च ग्रीवया सन्ति।",
+            "meaning_in_english": "Cranes are tall birds with long legs and necks.",
             "pronounciation": "audio file"
           },
           "second_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "ते सरःसु नदीषु च जलाशयेषु च वसन्ति।",
+            "meaning_in_english": "They live near lakes, rivers, and wetlands.",
             "pronounciation": "audio file"
           },
           "third_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "सारसाः सुनृत्यत्वाय प्रसिद्धाः।",
+            "meaning_in_english": "Cranes are known for their graceful dancing.",
             "pronounciation": "audio file"
           },
           "fourth_sentence": {
-            "sentence": "",
-            "meaning_in_english": "",
+            "sentence": "ते स्वल्पमत्स्यान् कीटानि च ओषधीश्च भक्षयन्ति।",
+            "meaning_in_english": "They eat small fish, insects, and plants.",
             "pronounciation": "audio file"
           },
           "fifth_sentence": {
-            "sentence": " ",
-            "meaning_in_english": "",
+            "sentence": "कतिपये सारसाः प्रतिवर्षं दीर्घाणि दूराणि पर्यटन्ति।",
+            "meaning_in_english": "Some cranes migrate long distances every year.",
             "pronounciation": "audio file"
           }
         },
@@ -3495,14 +3321,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "क",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "सारस्",
