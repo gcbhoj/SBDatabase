@@ -1,77 +1,77 @@
 [
   {
     "alphabet": "अ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/a.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet1.png"
   },
   {
     "alphabet": "आ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ā.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet2.png"
   },
   {
     "alphabet": "इ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/i.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet3.png"
   },
   {
     "alphabet": "ई",
-    "alphabet_four_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "alphabet_four_image": "myimage"
+    "alphabet_four_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ī.mp3",
+    "alphabet_four_image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet4.png"
   },
   {
     "alphabet": "उ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/u.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet5.png"
   },
   {
     "alphabet": "ऊ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ū.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet6.png"
   },
   {
-    "alphabet": "ऋ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
-  },
-  {
-    "alphabet": "ॠ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
-  },
-  {
-    "alphabet": "ऌ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/a.mp3",
-    "image": "myimage"
-  },
-  {
-    "alphabet": "ॡ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ā.mp3",
-    "image": "myimage"
+    "alphabet": "ए",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ē.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet7.png"
   },
   {
     "alphabet": "ऐ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ai.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet8.png"
   },
   {
     "alphabet": "ओ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ō.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet9.png"
   },
   {
     "alphabet": "औ",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/au.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet10.png"
+  },
+  {
+    "alphabet": "ऋ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/r̥.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet11.png"
+  },
+  {
+    "alphabet": "ॠ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/r̥̄.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet12.png"
+  },
+  {
+    "alphabet": "ऌ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/l̥.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet13.png"
   },
   {
     "alphabet": "अं",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/aṁ.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet14.png"
   },
   {
     "alphabet": "अः",
-    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/.mp3",
-    "image": "myimage"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/aḥ.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet15.png"
   }
 ]
