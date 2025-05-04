@@ -1,0 +1,167 @@
+[
+  {
+    "alphabet": "क",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ka.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet16.png"
+  },
+  {
+    "alphabet": "ख",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/kha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet17.png"
+  },
+  {
+    "alphabet": "ग",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ga.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet18.png"
+  },
+  {
+    "alphabet": "घ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/gha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet19.png"
+  },
+  {
+    "alphabet": "ङ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ṅa.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet20.png"
+  },
+  {
+    "alphabet": "च",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ca.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet21.png"
+  },
+  {
+    "alphabet": "छ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/cha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet22.png"
+  },
+  {
+    "alphabet": "ज",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ja.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet23.png"
+  },
+  {
+    "alphabet": "झ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/jha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet24.png"
+  },
+  {
+    "alphabet": "ञ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ña.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet25.png"
+  },
+  {
+    "alphabet": "ट",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ṭa.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet26.png"
+  },
+  {
+    "alphabet": "ठ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ṭha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet27.png"
+  },
+  {
+    "alphabet": "ड",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ḍa.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet28.png"
+  },
+  {
+    "alphabet": "ढ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ḍha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet29.png"
+  },
+  {
+    "alphabet": "ण",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ṇa.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet30.png"
+  },
+  {
+    "alphabet": "त",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ta.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet31.png"
+  },
+  {
+    "alphabet": "थ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/tha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet32.png"
+  },
+  {
+    "alphabet": "द",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/da.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet33.png"
+  },
+  {
+    "alphabet": "ध",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/dha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet34.png"
+  },
+  {
+    "alphabet": "न",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/na.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet35.png"
+  },
+  {
+    "alphabet": "प",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/pa.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet36.png"
+  },
+  {
+    "alphabet": "फ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/pha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet37.png"
+  },
+  {
+    "alphabet": "ब",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ba.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet38.png"
+  },
+  {
+    "alphabet": "भ",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/bha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet39.png"
+  },
+  {
+    "alphabet": "म",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ma.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet40.png"
+  },
+  {
+    "alphabet": "य",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ya.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet41.png"
+  },
+  {
+    "alphabet": "र",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ra.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet42.png"
+  },
+  {
+    "alphabet": "ल",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/la.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet43.png"
+  },
+  {
+    "alphabet": "व",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/va.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet44.png"
+  },
+  {
+    "alphabet": "श",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/śa.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet45.png"
+  },
+  {
+    "alphabet": "ष",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ṣa.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet46.png"
+  },
+  {
+    "alphabet": "स",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/sa.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet47.png"
+  },
+  {
+    "alphabet": "ह",
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/consonents/ha.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/consonents/alphabet48.png"
+  }
+]
