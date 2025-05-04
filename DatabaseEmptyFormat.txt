@@ -1,1 +1,83 @@
-
+      "": {
+        "common_name": "",
+        "pronounciation": "audio file",
+        "opposite_gender": "",
+        "opposite_gender_pronounciation": "audio file",
+        "animal_sound": "",
+        "image": "link to image",
+        "simple_sentences": {
+          "first_sentence": {
+            "sentence": "",
+            "meaning_in_english": "",
+            "pronounciation": "audio file"
+          },
+          "second_sentence": {
+            "sentence": "",
+            "meaning_in_english": "",
+            "pronounciation": "audio file"
+          },
+          "third_sentence": {
+            "sentence": "",
+            "meaning_in_english": "",
+            "pronounciation": "audio file"
+          },
+          "fourth_sentence": {
+            "sentence": "",
+            "meaning_in_english": "",
+            "pronounciation": "audio file"
+          },
+          "fifth_sentence": {
+            "sentence":" ",
+            "meaning_in_english": "",
+            "pronounciation": "audio file"
+          }
+        },
+        "common_name_split": {
+          "first_letter": "",
+          "first_letter_pronounciation": "audio file",
+          "second_letter": "",
+          "second_letter_pronounciation": "audio file",
+          "third_letter": "",
+          "third_letter_pronounciation": "audio file"
+        },
+        "animal_sound_split": {
+          "first_letter": "",
+          "first_letter_pronounciation": "audio file",
+          "second_letter": "",
+          "second_letter_pronounciation": "audio file",
+          "third_letter": "",
+          "third_letter_pronounciation": "audio file"
+        },
+        "other_names": {
+          "name_one": "",
+          "name_one_pronounciation": "audio file",
+          "name_one_split": {
+            "first_letter": "",
+            "first_letter_pronounciation": "audio file",
+            "second_letter": "",
+            "second_letter_pronounciation": "audio file",
+            "third_letter": "",
+            "third_letter_pronounciation": "audio file"
+          },
+          "name_two": "",
+          "name_two_pronounciation": "audio file",
+          "name_two_split": {
+            "first_letter": "",
+            "first_letter_pronounciation": "audio file"
+          },
+          "name_three": "",
+          "name_three_pronounciation": "audio file",
+          "name_three_split": {
+            "first_letter": "",
+            "first_letter_pronciation": "audio file",
+            "second_letter": "",
+            "second_letter_pronounciation": "audio file"
+          }
+        },
+        "opposite_gender_split": {
+          "first_letter": "",
+          "first_letter_pronounciation": "audio file",
+          "second_letter": "",
+          "second_letter_pronounciation": "audio file"
+        },
+      }
