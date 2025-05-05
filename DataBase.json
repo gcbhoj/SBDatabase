@@ -16,8 +16,8 @@
           "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dog/dog_4.jpg",
           "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/dog/dog_5.jpg"
         },
-        "wild_dog": "आरण्यशुनक",
-        "wild_dog_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/aranyasunaka.wav",
+        "wild_name": "आरण्यशुनक",
+        "wild_name_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/aranyasunaka.wav",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "शुनकः जलंपिबन् आसीत् |",
@@ -71,7 +71,7 @@
           "second_letter": "नी",
           "second_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/ni.wav"
         },
-        "wild_dog_split": {
+        "wild_name_split": {
           "first_letter": "आ",
           "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/dog/aa.wav",
           "second_letter": "र",
@@ -646,8 +646,8 @@
           "image_four": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/donkey/donkey_4.jpg",
           "image_five": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/donkey/donkey_5.jpg"
         },
-        "wild_donkey": "गौरखर",
-        "wild_donkey_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/gauraghara.wav",
+        "wild_name": "गौरखर",
+        "wild_name_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/gauraghara.wav",
         "simple_sentences": {
           "first_sentence": {
             "sentence": "गर्दभः भारान् गुरून् पर्वतमार्गेण उह्यते।",
@@ -709,7 +709,7 @@
             "fourth_letter_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/rya.wav"
           }
         },
-        "wild_donkey_split": {
+        "wild_name_split": {
           "first_letter": "गौ",
           "first_letter_pronciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/donkey/gau.wav",
           "second_letter": "र",
