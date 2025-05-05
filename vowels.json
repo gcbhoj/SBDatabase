@@ -16,8 +16,8 @@
   },
   {
     "alphabet": "ई",
-    "alphabet_four_pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ī.mp3",
-    "alphabet_four_image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet4.png"
+    "pronounciation": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/audio/vowels/ī.mp3",
+    "image": "https://raw.githubusercontent.com/gcbhoj/SBDatabase/main/images/vowels/alphabet4.png"
   },
   {
     "alphabet": "उ",
