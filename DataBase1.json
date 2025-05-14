@@ -7,9 +7,6 @@
         "starting_alphabet": "म",
         "common_name": "मत्स्य",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -31,11 +28,6 @@
             "sentence": "यदा अहं तरामि तदा लहु मीनं द्रष्टुं शक्नोमि|",
             "meaning_in_english": "When I am swimming, I can see the little fish.",
             "pronounciation": "audio file"
-          },
-          "fifth_sentence": {
-            "sentence": "गभीर-समुद्र-मत्स्य ",
-            "meaning_in_english": "deep sea fish",
-            "pronounciation": "audio file"
           }
         },
         "common_name_split": {
@@ -43,14 +35,6 @@
           "first_letter_pronounciation": "audio file",
           "second_letter": "त्स्य",
           "second_letter_pronounciation": "audio file"
-        },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
         },
         "other_names": {
           "name_one": "जलपिप्पिका",
@@ -78,17 +62,11 @@
           "name_three": "मच्छ",
           "name_three_pronounciation": "audio file",
           "name_three_split": {
-            "first_letter": "",
+            "first_letter": "म",
             "first_letter_pronciation": "audio file",
-            "second_letter": "",
+            "second_letter": "च्छ",
             "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
@@ -96,9 +74,6 @@
         "starting_alphabet": "शि",
         "common_name": "शिशुमार",
         "pronounciation": "audio file",
-        "opposite_gender": "",
-        "opposite_gender_pronounciation": "audio file",
-        "animal_sound": "",
         "image": "link to image",
         "simple_sentences": {
           "first_sentence": {
@@ -137,14 +112,6 @@
           "fourth_letter": "र",
           "fourth_letter_pronounciation": "audio file"
         },
-        "animal_sound_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file",
-          "third_letter": "",
-          "third_letter_pronounciation": "audio file"
-        },
         "other_names": {
           "name_one": "स्थूलमीन",
           "name_one_pronounciation": "audio file",
@@ -178,12 +145,6 @@
             "second_letter": "",
             "second_letter_pronounciation": "audio file"
           }
-        },
-        "opposite_gender_split": {
-          "first_letter": "",
-          "first_letter_pronounciation": "audio file",
-          "second_letter": "",
-          "second_letter_pronounciation": "audio file"
         }
       },
       {
